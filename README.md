@@ -78,8 +78,8 @@
   5. Font monospaced untuk format struk
 
 Frame ini digunakan untuk:
-1. Menampilkan struk check-out
-2. Mencetak struk ke printer thermal melalui btnPrint</h6>
+  1. Menampilkan struk check-out
+  2. Mencetak struk ke printer thermal melalui btnPrint</h6>
 
 <h4>WeeklyReportFrame GUI Rekap Mingguan</h4>
 <h6>Komponen GUI Frame ini digunakan untuk menampilkan isi file rekap_mingguan.txt hasil export dari BookingService.
@@ -96,17 +96,18 @@ Frame ini digunakan untuk:
 <h4>CheckOutFrame GUI Proses Check-Out</h4>
 <h6>Komponen GUI
   
-    1. JFrame 
-    2. JLabel
-    3. JTextField
-    4. JButton
-    5. JOptionPane 
-    Digunakan untuk:
+  1. JFrame 
+  2. JLabel
+  3. JTextField
+  4. JButton
+  5. JOptionPane 
     
-    1. Memasukkan nomor kamar
-    2. Menampilkan biaya total, metode pembayaran
-    3. Menyimpan data check-out
-    4. Membuka ReceiptFrame untuk mencetak struk</h6>
+  Digunakan untuk:
+    
+  1. Memasukkan nomor kamar
+  2. Menampilkan biaya total, metode pembayaran
+  3. Menyimpan data check-out
+  4. Membuka ReceiptFrame untuk mencetak struk</h6>
 
 
   
