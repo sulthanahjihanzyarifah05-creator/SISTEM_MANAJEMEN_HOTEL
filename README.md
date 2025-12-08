@@ -9,9 +9,9 @@
   efisiensi kerja pegawai secara signifikan.</h6>
 
 <h1>🚀 Cara Menjalankan Project</h1>
-<h4>1. Clone Repository</h4>
+<h4>1.Clone Repository</h4>
 <h6>git clone https://github.com/sulthanahjihanzyarifah05-creator/SISTEM_MANAJEMEN_HOTEL.git</h6>
-<h6>2. Buka di IDE Netbeans</h6>
-<h6>3. Pastikan JDK Terinstall</h6>
-<h6>4. Jalankan Program</h6> 
-<h6> Ada 2 tipe Main, Menggunakan Gui "LoginFrame" dan Tanpa gui "HotelApp" </h6>
+<h4>2. Buka di IDE Netbeans</h4>
+<h4>3. Pastikan JDK Terinstall</h4>
+<h4>4. Jalankan Program</h4> 
+<h4> Ada 2 tipe Main, Menggunakan Gui "LoginFrame" dan Tanpa gui "HotelApp" </h4>
