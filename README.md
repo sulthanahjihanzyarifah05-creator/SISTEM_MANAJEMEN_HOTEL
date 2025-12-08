@@ -17,8 +17,7 @@
 <h4> Ada 2 tipe Main, Menggunakan Gui "LoginFrame" dan Tanpa gui "HotelApp" </h4>
 
 <h1>🔵 PENJELASAN GUI  PADA  SISTEM MANAJEMEN HOTEL </h1>
-<h6>Project ini menggunakan Java Swing sebagai library utama untuk membuat antarmuka pengguna.
-Semua tampilan GUI dibuat dengan extends JFrame dan menggunakan komponen-komponen GUI seperti:
+<h6>Project ini menggunakan Java Swing sebagai library utama untuk membuat antarmuka pengguna. Semua tampilan GUI dibuat dengan extends JFrame dan menggunakan komponen-komponen GUI seperti:
 
 JFrame
 
