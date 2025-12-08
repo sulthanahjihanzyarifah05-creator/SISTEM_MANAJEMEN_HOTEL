@@ -33,6 +33,7 @@
 
 <h4>LoginFrame GUI Login Pegawai</h4>
 <h6>Komponen GUI yang digunakan
+  
   1. JFrame → jendela utama login
   2. JLabel → teks "Username", "Password"
   3. JTextField → input username
