@@ -40,6 +40,14 @@
   4. JPasswordField → input password
   5. JButton → button Login
   6. JOptionPane → menampilkan pop-up login berhasil / gagal</h6>
+<pre><img width="376" height="74" alt="image" src="https://github.com/user-attachments/assets/6700dd48-ecee-4245-87dd-088d8223452a" />
+</pre> Inheritance (Pewarisan) LoginFrame adalah anak (subclass) dari JFrame (superclass). 
+  Variabel / Atribut
+  1. usernameField → variabel GUI
+  2.  passwordField → variabel GUI
+  3.  service → variabel service (mengakses logika login)
+  
+
 <h4>MainMenuFrame GUI Menu Utama Sistem Hotel</h4>
 <h6>Komponen GUI Frame ini menjadi hub utama, tempat user memilih fitur sistem.
   
