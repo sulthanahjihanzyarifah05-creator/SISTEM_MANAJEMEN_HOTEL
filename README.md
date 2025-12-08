@@ -33,15 +33,9 @@
 
 <h4>LoginFrame GUI Login Pegawai</h4>
 <h6>Komponen GUI yang digunakan
-
-JFrame → jendela utama login
-
-JLabel → teks "Username", "Password"
-
-JTextField → input username
-
-JPasswordField → input password
-
-JButton → button Login
-
-JOptionPane → menampilkan pop-up login berhasil / gagal</h6>
+  1. JFrame → jendela utama login
+  2. JLabel → teks "Username", "Password"
+  3. JTextField → input username
+  4. JPasswordField → input password
+  5. JButton → button Login
+  6. JOptionPane → menampilkan pop-up login berhasil / gagal</h6>
