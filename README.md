@@ -96,5 +96,22 @@ Frame ini digunakan untuk:
   2. JTextArea
   3. JScrollPane</h6>
 
+  <h4>CheckOutFrame GUI Proses Check-Out</h4>
+  
+  <h6>Komponen GUI
+
+    1. JFrame 
+    2. JLabel
+    3. JTextField
+    4. JButton
+    5. JOptionPane 
+    
+    Digunakan untuk:
+    
+    1. Memasukkan nomor kamar
+    2. Menampilkan biaya total, metode pembayaran
+    3. Menyimpan data check-out
+    4. Membuka ReceiptFrame untuk mencetak struk</h6>
+
 
   
