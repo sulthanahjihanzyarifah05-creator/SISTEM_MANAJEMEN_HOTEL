@@ -67,3 +67,34 @@
   2. JTable → tabel daftar kamar
   3. JScrollPane → memungkinkan tabel di-scroll
   4. DefaultTableModel → data model tabel</h6>
+
+<h4>ReceiptFrame GUI Struk Pembayaran</h4>
+<h6>Komponen GUI
+  
+  1. JFrame
+  2. JTextArea (readonly) → menampilkan struk
+  3. JScrollPane
+  4. JButton (Print dan Tutup)
+  5. Font monospaced untuk format struk
+
+Frame ini digunakan untuk:
+1. Menampilkan struk check-out
+2. Mencetak struk ke printer thermal melalui btnPrint</h6>
+
+<h4>WeeklyReportFrame GUI Rekap Mingguan</h4>
+<h6>Komponen GUI Frame ini digunakan untuk menampilkan isi file rekap_mingguan.txt hasil export dari BookingService.
+  
+  1. JFrame
+  2. JTextArea
+  3. JScrollPane</h6>
+
+<h4>HistoryFrame GUI Riwayat Transaksi</h4>
+
+<h6>Komponen GUI Menampilkan seluruh isi riwayat_transaksi.txt (log Check-In dan Check-Out).
+  
+  1. JFrame
+  2. JTextArea
+  3. JScrollPane</h6>
+
+
+  
