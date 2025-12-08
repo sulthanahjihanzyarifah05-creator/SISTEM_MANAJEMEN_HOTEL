@@ -32,7 +32,9 @@
 10. JOptionPane</h6>
 
 <h4>LoginFrame GUI Login Pegawai</h4>
+
 <h6>Komponen GUI yang digunakan GUI ini berfungsi sebagai halaman awal tempat pegawai memasukkan username & password. Setelah login berhasil, frame akan membuka MainMenuFrame menggunakan:
+
   
   1. JFrame → jendela utama login   Inheritance (Pewarisan) LoginFrame adalah anak (subclass) dari JFrame (superclass). 
      <pre><img width="376" height="74" alt="image" src="https://github.com/user-attachments/assets/6700dd48-ecee-4245-87dd-088d8223452a" />
