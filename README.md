@@ -19,22 +19,13 @@
 <h1>🔵 PENJELASAN GUI  PADA  SISTEM MANAJEMEN HOTEL </h1>
 <h6>Project ini menggunakan Java Swing sebagai library utama untuk membuat antarmuka pengguna. Semua tampilan GUI dibuat dengan extends JFrame dan menggunakan komponen-komponen GUI seperti:
 
-JFrame
-
-JLabel
-
-JTextField
-
-JPasswordField
-
-JButton
-
-JTable
-
-JScrollPane
-
-JTextArea
-
-DefaultTableModel
-
-JOptionPane</h6>
+1. JFrame
+2. JLabel
+3. JTextField
+4. JPasswordField
+5. JButton
+6. JTable
+7. JScrollPane
+8. JTextArea
+9. DefaultTableModel
+10. JOptionPane</h6>
