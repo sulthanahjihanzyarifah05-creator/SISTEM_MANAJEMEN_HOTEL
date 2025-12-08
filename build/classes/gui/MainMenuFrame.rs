@@ -1,0 +1,2 @@
+gui.MainMenuFrame
+gui.MainMenuFrame$HistoryFrame

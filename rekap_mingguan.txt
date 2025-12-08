@@ -1,0 +1,14 @@
+========== REKAP MINGGUAN DETAIL ==========
+
+Tanggal : 2025-12-03
+Nama    : mila
+Kamar   : 1
+Malam   : 1
+Total   : Rp300.000,00
+----------------------------------------------
+
+
+===== KESIMPULAN =====
+Total Tamu       : 1
+Total Malam      : 1
+Total Pendapatan : Rp300.000,00

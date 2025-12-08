@@ -1,0 +1,5 @@
+=== RIWAYAT TRANSAKSI HOTEL ===
+
+03-12-2025 11:06 | CHECK-IN | Tamu: mila | Kamar: 1 | Malam: 1 | Total: 0.0 | Pembayaran: - | Check-In: 03-12-2025 11:06 | Check-Out: -
+03-12-2025 11:06 | CHECK-IN | Tamu: zefa | Kamar: 2 | Malam: 2 | Total: 0.0 | Pembayaran: - | Check-In: 03-12-2025 11:06 | Check-Out: -
+03-12-2025 11:07 | CHECK-OUT | Tamu: mila | Kamar: 1 | Malam: 1 | Total: 300000.0 | Pembayaran: QRIS | Check-In: 03-12-2025 11:06 | Check-Out: 03-12-2025 11:07
