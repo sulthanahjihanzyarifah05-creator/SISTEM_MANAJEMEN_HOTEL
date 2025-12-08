@@ -61,6 +61,7 @@
   3. Status
   4. Nama tamu
   5. Lama menginap
+  
   GUI yang di pakai pada class ini
   1. JFrame
   2. JTable → tabel daftar kamar
