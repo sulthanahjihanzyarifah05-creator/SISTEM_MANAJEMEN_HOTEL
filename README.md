@@ -17,6 +17,7 @@
 <h4> Ada 2 tipe Main, Menggunakan Gui "LoginFrame" dan Tanpa gui "HotelApp" </h4>
 
 <h1>🔵 PENJELASAN GUI  PADA  SISTEM MANAJEMEN HOTEL </h1>
+
 <h6>Project ini menggunakan Java Swing sebagai library utama untuk membuat antarmuka pengguna. Semua tampilan GUI dibuat dengan extends JFrame dan menggunakan komponen-komponen GUI seperti:
 
 1. JFrame
@@ -29,3 +30,18 @@
 8. JTextArea
 9. DefaultTableModel
 10. JOptionPane</h6>
+
+<h4>LoginFrame GUI Login Pegawai</h4>
+<h6>Komponen GUI yang digunakan
+
+JFrame → jendela utama login
+
+JLabel → teks "Username", "Password"
+
+JTextField → input username
+
+JPasswordField → input password
+
+JButton → button Login
+
+JOptionPane → menampilkan pop-up login berhasil / gagal</h6>
