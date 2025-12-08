@@ -7,3 +7,5 @@
   pegawai akan dialihkan ke Main Menu Frame yang berisi berbagai pilihan layanan operasional hotel. Setiap fitur dalam menu dirancang menggunakan konsep modular dan object-oriented agar sistem lebih 
   mudah dikembangkan, dipelihara, serta diintegrasikan dengan layanan hotel lainnya di masa depan. Dengan fitur-fitur tersebut, sistem ini diharapkan dapat meningkatkan kualitas layanan hotel serta 
   efisiensi kerja pegawai secara signifikan.</h6>
+
+<h1>🚀 Cara Menjalankan Project</h1>
