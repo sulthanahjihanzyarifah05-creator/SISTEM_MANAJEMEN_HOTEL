@@ -9,4 +9,4 @@
   efisiensi kerja pegawai secara signifikan.</h6>
 
 <h1>🚀 Cara Menjalankan Project</h1>
-<type>gatau</type>
+<BLANK LINE>
