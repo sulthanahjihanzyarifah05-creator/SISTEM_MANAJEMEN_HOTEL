@@ -89,23 +89,18 @@ Frame ini digunakan untuk:
   3. JScrollPane</h6>
 
 <h4>HistoryFrame GUI Riwayat Transaksi</h4>
-
 <h6>Komponen GUI Menampilkan seluruh isi riwayat_transaksi.txt (log Check-In dan Check-Out).
-  
   1. JFrame
   2. JTextArea
   3. JScrollPane</h6>
-
-  <h4>CheckOutFrame GUI Proses Check-Out</h4>
+<h4>CheckOutFrame GUI Proses Check-Out</h4>
+<h6>Komponen GUI
   
-  <h6>Komponen GUI
-
     1. JFrame 
     2. JLabel
     3. JTextField
     4. JButton
     5. JOptionPane 
-    
     Digunakan untuk:
     
     1. Memasukkan nomor kamar
