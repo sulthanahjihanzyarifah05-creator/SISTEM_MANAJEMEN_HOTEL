@@ -34,20 +34,22 @@
 <h4>LoginFrame GUI Login Pegawai</h4>
 <h6>Komponen GUI yang digunakan GUI ini berfungsi sebagai halaman awal tempat pegawai memasukkan username & password. Setelah login berhasil, frame akan membuka MainMenuFrame menggunakan:
   
-  1. JFrame → jendela utama login
-  2. JLabel → teks "Username", "Password"
-  3. JTextField → input username
-  4. JPasswordField → input password
-  5. JButton → button Login
-  6. JOptionPane → menampilkan pop-up login berhasil / gagal</h6>
-<pre><img width="376" height="74" alt="image" src="https://github.com/user-attachments/assets/6700dd48-ecee-4245-87dd-088d8223452a" />
-</pre> Inheritance (Pewarisan) LoginFrame adalah anak (subclass) dari JFrame (superclass). 
-  Variabel / Atribut
-  1. usernameField → variabel GUI
-  2.  passwordField → variabel GUI
-  3.  service → variabel service (mengakses logika login)
+  1. JFrame → jendela utama login   Inheritance (Pewarisan) LoginFrame adalah anak (subclass) dari JFrame (superclass). 
+     <pre><img width="376" height="74" alt="image" src="https://github.com/user-attachments/assets/6700dd48-ecee-4245-87dd-088d8223452a" />
+  2. Enkapulasi, hanya bisa di akses pada class tersebut
+     <pre><img width="319" height="67" alt="image" src="https://github.com/user-attachments/assets/08773a80-4dd9-4b86-9278-e8ebc2aa955a" /></pre>
+  4. JLabel → teks "Username", "Password"
+     <PRE><img width="326" height="107" alt="image" src="https://github.com/user-attachments/assets/4a90c6e8-360e-4248-96a3-293556a007f8" /></PRE>
+     <PRE><img width="265" height="41" alt="image" src="https://github.com/user-attachments/assets/515e6add-e8f4-4338-a06b-015380d31b38" /></PRE>
+  5. JTextField → input username
+     <PRE><img width="274" height="47" alt="image" src="https://github.com/user-attachments/assets/e55d6e5c-3d32-44eb-afe0-d05f95cf301d" /></PRE>
+  6. JPasswordField → input password
+     <PRE><img width="282" height="44" alt="image" src="https://github.com/user-attachments/assets/953c67ed-e251-4e86-b8bf-71d3f24a324e" /></PRE>
+  8. JButton → button Login
+     <PRE><img width="311" height="73" alt="image" src="https://github.com/user-attachments/assets/396edd33-b30c-4fa3-8f1e-ff95a14a456b" /></PRE>
+  10. JOptionPane → menampilkan pop-up login berhasil / gagal</h6>
+      <PRE><img width="377" height="50" alt="image" src="https://github.com/user-attachments/assets/9196d3bb-6670-49cc-8bf6-e8314ac0d636" /></PRE>
   
-
 <h4>MainMenuFrame GUI Menu Utama Sistem Hotel</h4>
 <h6>Komponen GUI Frame ini menjadi hub utama, tempat user memilih fitur sistem.
   
