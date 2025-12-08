@@ -32,7 +32,7 @@
 10. JOptionPane</h6>
 
 <h4>LoginFrame GUI Login Pegawai</h4>
-<h6>Komponen GUI yang digunakan
+<h6>Komponen GUI yang digunakan GUI ini berfungsi sebagai halaman awal tempat pegawai memasukkan username & password. Setelah login berhasil, frame akan membuka MainMenuFrame menggunakan:
   
   1. JFrame → jendela utama login
   2. JLabel → teks "Username", "Password"
@@ -40,3 +40,14 @@
   4. JPasswordField → input password
   5. JButton → button Login
   6. JOptionPane → menampilkan pop-up login berhasil / gagal</h6>
+<h4>MainMenuFrame GUI Menu Utama Sistem Hotel</h4>
+<h6>Komponen GUI Frame ini menjadi hub utama, tempat user memilih fitur sistem.
+  
+  1. JFrame
+  2. JLabel → Menampilkan "Selamat Datang"
+  3. JButton → menu navigasi:
+  4. Lihat Semua Kamar
+  5. Check-In
+  6. Check-Out
+  7. Export Histori
+  8. Rekap Mingguan</h6>
