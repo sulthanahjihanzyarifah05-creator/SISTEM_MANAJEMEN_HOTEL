@@ -109,5 +109,20 @@ Frame ini digunakan untuk:
   3. Menyimpan data check-out
   4. Membuka ReceiptFrame untuk mencetak struk</h6>
 
+<h4>CheckInFrame GUI Proses Check-In</h4>
+<h6>Komponen GUI
+  
+  1. JFrame
+  2. JLabel
+  3. JTextField
+  4. JButton
+  5. JOptionPane
+
+  Digunakan untuk:
+  1. Input nama tamu
+  2. Memilih nomor kamar
+  3. Mengisi lama menginap
+  4. Melakukan Check-In dengan validasi lengkap</h6>
+
 
   
