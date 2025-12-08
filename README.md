@@ -51,3 +51,18 @@
   6. Check-Out
   7. Export Histori
   8. Rekap Mingguan</h6>
+
+  <h4>RoomListFrame GUI Daftar Kamar</h4>
+  <h6>Komponen GUI 
+
+  GUI ini berfungsi untuk menampilkan seluruh status kamar (BOOKED / AVAILABLE) lengkap dengan:
+  1. Nomor kamar
+  2. Harga
+  3. Status
+  4. Nama tamu
+  5. Lama menginap
+  GUI yang di pakai pada class ini
+  1. JFrame
+  2. JTable → tabel daftar kamar
+  3. JScrollPane → memungkinkan tabel di-scroll
+  4. DefaultTableModel → data model tabel</h6>
