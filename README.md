@@ -31,7 +31,7 @@
 9. DefaultTableModel
 10. JOptionPane</h6>
 
-<h4>LoginFrame GUI Login Pegawai</h4>
+<h3>LoginFrame GUI Login Pegawai</h3>
 
 <h6>Komponen GUI yang digunakan GUI ini berfungsi sebagai halaman awal tempat pegawai memasukkan username & password. Setelah login berhasil, frame akan membuka MainMenuFrame menggunakan:
 
@@ -52,7 +52,7 @@
   10. JOptionPane → menampilkan pop-up login berhasil / gagal</h6>
       <PRE><img width="377" height="50" alt="image" src="https://github.com/user-attachments/assets/9196d3bb-6670-49cc-8bf6-e8314ac0d636" /></PRE>
   
-<h4>MainMenuFrame GUI Menu Utama Sistem Hotel</h4>
+<h3>MainMenuFrame GUI Menu Utama Sistem Hotel</h3>
 <h6>Komponen GUI Frame ini menjadi hub utama, tempat user memilih fitur sistem.
   
   1. JFrame
@@ -64,7 +64,7 @@
   7. Export Histori
   8. Rekap Mingguan</h6>
 
-  <h4>RoomListFrame GUI Daftar Kamar</h4>
+  <h3>RoomListFrame GUI Daftar Kamar</h3>
   <h6>Komponen GUI 
 
   GUI ini berfungsi untuk menampilkan seluruh status kamar (BOOKED / AVAILABLE) lengkap dengan:
@@ -80,7 +80,7 @@
   3. JScrollPane → memungkinkan tabel di-scroll
   4. DefaultTableModel → data model tabel</h6>
 
-<h4>ReceiptFrame GUI Struk Pembayaran</h4>
+<h3>ReceiptFrame GUI Struk Pembayaran</h3>
 <h6>Komponen GUI
   
   1. JFrame
@@ -93,19 +93,19 @@ Frame ini digunakan untuk:
   1. Menampilkan struk check-out
   2. Mencetak struk ke printer thermal melalui btnPrint</h6>
 
-<h4>WeeklyReportFrame GUI Rekap Mingguan</h4>
+<h3>WeeklyReportFrame GUI Rekap Mingguan</h3>
 <h6>Komponen GUI Frame ini digunakan untuk menampilkan isi file rekap_mingguan.txt hasil export dari BookingService.
   
   1. JFrame
   2. JTextArea
   3. JScrollPane</h6>
 
-<h4>HistoryFrame GUI Riwayat Transaksi</h4>
+<h3>HistoryFrame GUI Riwayat Transaksi</h3>
 <h6>Komponen GUI Menampilkan seluruh isi riwayat_transaksi.txt (log Check-In dan Check-Out).
   1. JFrame
   2. JTextArea
   3. JScrollPane</h6>
-<h4>CheckOutFrame GUI Proses Check-Out</h4>
+<h3>CheckOutFrame GUI Proses Check-Out</h3>
 <h6>Komponen GUI
   
   1. JFrame 
@@ -121,7 +121,7 @@ Frame ini digunakan untuk:
   3. Menyimpan data check-out
   4. Membuka ReceiptFrame untuk mencetak struk</h6>
 
-<h4>CheckInFrame GUI Proses Check-In</h4>
+<h3>CheckInFrame GUI Proses Check-In</h3>
 <h6>Komponen GUI
   
   1. JFrame
