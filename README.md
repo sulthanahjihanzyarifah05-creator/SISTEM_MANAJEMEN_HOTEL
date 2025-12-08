@@ -15,3 +15,5 @@
 <h4>3. Pastikan JDK Terinstall</h4>
 <h4>4. Jalankan Program</h4> 
 <h4> Ada 2 tipe Main, Menggunakan Gui "LoginFrame" dan Tanpa gui "HotelApp" </h4>
+
+<h1>🔵 PENJELASAN GUI (Graphical User Interface) PADA PROJECT HOTEL MANAGEMENT SYSTEM</h1>
