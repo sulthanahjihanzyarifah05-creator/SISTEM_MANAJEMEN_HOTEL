@@ -95,10 +95,10 @@ TAMPILAN GUI
       TAMPIAN GUI
     <pre><img width="446" height="295" alt="image" src="https://github.com/user-attachments/assets/1b5086d6-9a13-4f95-b8a2-3f1b1a52b93f" /></pre>
   </h6>
-  
 <h3>ReceiptFrame GUI Struk Pembayaran</h3>
 <h6>Komponen GUI
-    1. JFrame
+ 
+  1. JFrame
        <pre><img width="271" height="17" alt="image" src="https://github.com/user-attachments/assets/ca3d8d5f-2fa6-4fe2-ade2-15d51f1ae59d" /></pre>
     2. Enkapsulasi
       <pre><img width="296" height="58" alt="image" src="https://github.com/user-attachments/assets/49db084b-673d-47ef-95f8-2052e3e5f77e" /></pre>
