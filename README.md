@@ -101,14 +101,14 @@ TAMPILAN GUI
   1. JFrame
        <pre><img width="271" height="17" alt="image" src="https://github.com/user-attachments/assets/ca3d8d5f-2fa6-4fe2-ade2-15d51f1ae59d" /></pre>
     2. Enkapsulasi
-      <pre><img width="296" height="58" alt="image" src="https://github.com/user-attachments/assets/49db084b-673d-47ef-95f8-2052e3e5f77e" /></pre>
+  <pre><img width="296" height="58" alt="image" src="https://github.com/user-attachments/assets/49db084b-673d-47ef-95f8-2052e3e5f77e" /></pre>
     3. JTextArea (readonly) → menampilkan struk
-       <pre><img width="349" height="50" alt="image" src="https://github.com/user-attachments/assets/12a6d6b3-c021-4514-ad86-e15ef41b3b22" /></pre>
-       <pre><img width="525" height="538" alt="image" src="https://github.com/user-attachments/assets/59e8b2b3-17e9-4072-8f22-88f040fac559" /></pre>
+   <pre><img width="349" height="50" alt="image" src="https://github.com/user-attachments/assets/12a6d6b3-c021-4514-ad86-e15ef41b3b22" /></pre>
+  <pre><img width="525" height="538" alt="image" src="https://github.com/user-attachments/assets/59e8b2b3-17e9-4072-8f22-88f040fac559" /></pre>
     4. JScrollPane
-       <pre><img width="265" height="45" alt="image" src="https://github.com/user-attachments/assets/2edbf96e-d563-44b4-bdd8-027de0104721" /></pre>
+  <pre><img width="265" height="45" alt="image" src="https://github.com/user-attachments/assets/2edbf96e-d563-44b4-bdd8-027de0104721" /></pre>
     5. JButton ("Print" dan "Tutup")
-        <pre><img width="323" height="122" alt="image" src="https://github.com/user-attachments/assets/0bbc5a1e-ad96-4107-8663-d4f6c85a38ab" /></pre>
+  <pre><img width="323" height="122" alt="image" src="https://github.com/user-attachments/assets/0bbc5a1e-ad96-4107-8663-d4f6c85a38ab" /></pre>
     6. Font monospaced untuk format struk
 
   Frame ini digunakan untuk:
