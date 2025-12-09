@@ -64,29 +64,40 @@ TAMPILAN GUI
   4. JLabel → Menampilkan "Selamat Datang"
      <pre><img width="389" height="48" alt="image" src="https://github.com/user-attachments/assets/35a7d1c1-fae2-4026-bb82-dd3260571e17" /></pre>
   6. JButton → menu navigasi:
+
        Lihat Semua Kamar
        Check-In
        Check-Out
        Export Histori
        Rekap Mingguan
-     <pre><img width="347" height="261" alt="image" src="https://github.com/user-attachments/assets/8d443098-b973-4402-88e1-a33d9b322037" /></pre>
+      <pre><img width="347" height="261" alt="image" src="https://github.com/user-attachments/assets/8d443098-b973-4402-88e1-a33d9b322037" /></pre>
+
+     TAMPILAN GUI
+       <pre><img width="292" height="296" alt="image" src="https://github.com/user-attachments/assets/33a3584a-351b-4f40-aed8-b2c376154754" /></pre>
      </h6>
  
   <h3>RoomListFrame GUI Daftar Kamar</h3>
-  <h6>Komponen GUI 
+  <h6>Komponen GUI untuk menampilkan seluruh status kamar (BOOKED / AVAILABLE) lengkap dengan:
+  GUI yang di pakai pada class ini
+  1. JFrame
+     <pre><img width="299" height="35" alt="image" src="https://github.com/user-attachments/assets/d6267964-f2f7-4092-a5c0-a22083ad74a3" /></pre>
+  2. Enkapsulasi yang menggunakan setter
+     <pre><img width="356" height="73" alt="image" src="https://github.com/user-attachments/assets/e71b42cd-627e-4e2d-9fb6-467f59a30561" /></pre>
+  4. JTable → tabel daftar kamar
+     <pre><img width="245" height="18" alt="image" src="https://github.com/user-attachments/assets/dc7d14ec-7abd-4304-9b8f-efd1dc504fba" /></pre>
+  6. JScrollPane → memungkinkan tabel di-scroll
+     <pre><img width="294" height="15" alt="image" src="https://github.com/user-attachments/assets/c15abaab-f0b2-4dad-a776-9f7114ea1f76" /></pre>
+  8. DefaultTableModel → data model tabel</h6>
+    <pre><img width="421" height="202" alt="image" src="https://github.com/user-attachments/assets/82f0ba07-e8be-4aae-9ecb-3ec65660d074" /></pre>
 
-  GUI ini berfungsi untuk menampilkan seluruh status kamar (BOOKED / AVAILABLE) lengkap dengan:
+  Untuk menampilkan seluruh status kamar (BOOKED / AVAILABLE) lengkap dengan:
   1. Nomor kamar
   2. Harga
   3. Status
   4. Nama tamu
   5. Lama menginap
+  <pre><img width="440" height="296" alt="image" src="https://github.com/user-attachments/assets/796f144f-87a3-4589-bf0e-3ee8fa38fd7b" /></pre>
   
-  GUI yang di pakai pada class ini
-  1. JFrame
-  2. JTable → tabel daftar kamar
-  3. JScrollPane → memungkinkan tabel di-scroll
-  4. DefaultTableModel → data model tabel</h6>
 
 <h3>ReceiptFrame GUI Struk Pembayaran</h3>
 <h6>Komponen GUI
