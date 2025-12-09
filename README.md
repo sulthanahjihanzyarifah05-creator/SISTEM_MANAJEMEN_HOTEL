@@ -38,7 +38,7 @@
   
   1. JFrame → jendela utama login   Inheritance (Pewarisan) LoginFrame adalah anak (subclass) dari JFrame (superclass). 
      <pre><img width="376" height="74" alt="image" src="https://github.com/user-attachments/assets/6700dd48-ecee-4245-87dd-088d8223452a" />
-  2. Enkapulasi, hanya bisa di akses pada class tersebut
+  2. Enkapulasi, hanya bisa di akses pada class tersebut gunakan setter
      <pre><img width="319" height="67" alt="image" src="https://github.com/user-attachments/assets/08773a80-4dd9-4b86-9278-e8ebc2aa955a" /></pre>
   4. JLabel → teks "Username", "Password"
      <PRE><img width="326" height="107" alt="image" src="https://github.com/user-attachments/assets/4a90c6e8-360e-4248-96a3-293556a007f8" /></PRE>
@@ -57,15 +57,21 @@ TAMPILAN GUI
 <h3>MainMenuFrame GUI Menu Utama Sistem Hotel</h3>
 <h6>Komponen GUI Frame ini menjadi hub utama, tempat user memilih fitur sistem.
   
-  1. JFrame
-  2. JLabel → Menampilkan "Selamat Datang"
-  3. JButton → menu navigasi:
-  4. Lihat Semua Kamar
-  5. Check-In
-  6. Check-Out
-  7. Export Histori
-  8. Rekap Mingguan</h6>
-
+  1. JFrame Inheritance (Pewarisan) MainMenuFrame adalah anak (subclass) dari JFrame (superclass).
+     <pre><img width="358" height="20" alt="image" src="https://github.com/user-attachments/assets/ad1e3368-e666-4427-8850-b69323ecf752" /></pre>
+  2. Enkapsulasi menggunkan setter
+     <pre><img width="353" height="73" alt="image" src="https://github.com/user-attachments/assets/51efe0de-d401-4daa-bffc-7af765e6667d" /></pre>
+  4. JLabel → Menampilkan "Selamat Datang"
+     <pre><img width="389" height="48" alt="image" src="https://github.com/user-attachments/assets/35a7d1c1-fae2-4026-bb82-dd3260571e17" /></pre>
+  6. JButton → menu navigasi:
+       Lihat Semua Kamar
+       Check-In
+       Check-Out
+       Export Histori
+       Rekap Mingguan
+     <pre><img width="347" height="261" alt="image" src="https://github.com/user-attachments/assets/8d443098-b973-4402-88e1-a33d9b322037" /></pre>
+     </h6>
+ 
   <h3>RoomListFrame GUI Daftar Kamar</h3>
   <h6>Komponen GUI 
 
