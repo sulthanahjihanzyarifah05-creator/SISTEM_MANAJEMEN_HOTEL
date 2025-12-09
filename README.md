@@ -51,6 +51,8 @@
      <PRE><img width="311" height="73" alt="image" src="https://github.com/user-attachments/assets/396edd33-b30c-4fa3-8f1e-ff95a14a456b" /></PRE>
   10. JOptionPane → menampilkan pop-up login berhasil / gagal</h6>
       <PRE><img width="377" height="50" alt="image" src="https://github.com/user-attachments/assets/9196d3bb-6670-49cc-8bf6-e8314ac0d636" /></PRE>
+TAMPILAN GUI 
+<pre><img width="255" height="334" alt="image" src="https://github.com/user-attachments/assets/a0f02f95-f4d2-47bd-ba19-dfb319f84b64" /></pre>
   
 <h3>MainMenuFrame GUI Menu Utama Sistem Hotel</h3>
 <h6>Komponen GUI Frame ini menjadi hub utama, tempat user memilih fitur sistem.
