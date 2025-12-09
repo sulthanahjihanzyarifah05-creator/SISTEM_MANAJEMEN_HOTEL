@@ -117,21 +117,22 @@ TAMPILAN GUI
   TAMPILAN GUI
   <pre><img width="281" height="336" alt="image" src="https://github.com/user-attachments/assets/a0dec240-8f44-4919-a2b7-8ef35a39f2eb" /></pre>
   <pre><img width="281" height="335" alt="image" src="https://github.com/user-attachments/assets/6295b8ce-f951-44d5-8b80-97fd6221d584" /><pre>
-</h6>
+  </h6>
 
 <h3>WeeklyReportFrame GUI Rekap Mingguan</h3>
-<h6>Komponen GUI Frame ini digunakan untuk menampilkan isi file rekap_mingguan.txt hasil export dari BookingService.
+<h6>Komponen GUI 
+  Frame ini digunakan untuk menampilkan isi file rekap_mingguan.txt hasil export dari BookingService.
     1. JFrame
       <pre><img width="326" height="28" alt="image" src="https://github.com/user-attachments/assets/13bc9215-e12e-4c20-9547-78a11f7fe567" /></pre>
     2. JTextArea
-  <pre><img width="250" height="28" alt="image" src="https://github.com/user-attachments/assets/04eb619a-6be0-44d6-80be-9ca5da0ee6db" /></pre>
+       <pre><img width="250" height="28" alt="image" src="https://github.com/user-attachments/assets/04eb619a-6be0-44d6-80be-9ca5da0ee6db" /></pre>
     3. JScrollPane
-  <pre><img width="284" height="32" alt="image" src="https://github.com/user-attachments/assets/59786d71-961a-4cdb-b82f-d0a91656cb54" /></pre>
+      <pre><img width="284" height="32" alt="image" src="https://github.com/user-attachments/assets/59786d71-961a-4cdb-b82f-d0a91656cb54" /></pre>
   TAMPILAN GUI
   Ke Menu Utama pilih "Export Riwayat"
   <pre><img width="289" height="292" alt="image" src="https://github.com/user-attachments/assets/6729c517-8c60-43f4-85cc-0882d3c30677" /></pre>
-  <PRE><img width="441" height="446" alt="image" src="https://github.com/user-attachments/assets/bba36b61-c4e8-4676-8849-4237c67efaca" /></PRE>
-  </h6>
+  <pre><img width="441" height="446" alt="image" src="https://github.com/user-attachments/assets/bba36b61-c4e8-4676-8849-4237c67efaca" /></pre>
+</h6>
 
 <h3>HistoryFrame GUI Riwayat Transaksi</h3>
 <h6>Komponen GUI Menampilkan seluruh isi riwayat_transaksi.txt (log Check-In dan Check-Out).
