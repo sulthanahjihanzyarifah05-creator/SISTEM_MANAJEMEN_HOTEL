@@ -48,22 +48,6 @@
 
 <h1>🔵 PENJELASAN GUI PADA SISTEM MANAJEMEN HOTEL</h1>
 
-<h6>
-  Project ini menggunakan Java Swing sebagai library utama untuk membuat antarmuka pengguna. Semua tampilan GUI dibuat dengan extends JFrame dan menggunakan komponen GUI seperti:
-  <br>1. JFrame
-  <br>2. JLabel
-  <br>3. JTextField
-  <br>4. JPasswordField
-  <br>5. JButton
-  <br>6. JTable
-  <br>7. JScrollPane
-  <br>8. JTextArea
-  <br>9. DefaultTableModel
-  <br>10. JOptionPane
-</h6>
-
-<hr>
-
 <h3>LoginFrame — GUI Login Pegawai</h3>
 
 <details>
@@ -102,22 +86,37 @@
 <hr>
 
 <h3>MainMenuFrame — GUI Menu Utama Sistem Hotel</h3>
-<h6>
-  1. JFrame — Inheritance
-  <pre><img width="358" src="https://github.com/user-attachments/assets/ad1e3368-e666-4427-8850-b69323ecf752" /></pre>
 
-  2. Enkapsulasi — Setter
-  <pre><img width="353" src="https://github.com/user-attachments/assets/51efe0de-d401-4daa-bffc-7af765e6667d" /></pre>
+<details>
+  <summary><strong>Komponen GUI & Tampilan</strong></summary>
 
-  3. JLabel — "Selamat Datang"
-  <pre><img width="389" src="https://github.com/user-attachments/assets/35a7d1c1-fae2-4026-bb82-dd3260571e17" /></pre>
+  <ol>
+    <li>
+      <strong>JFrame — Inheritance</strong>
+      <pre><img width="358" src="https://github.com/user-attachments/assets/ad1e3368-e666-4427-8850-b69323ecf752" /></pre>
+    </li>
 
-  4. JButton — Navigasi Menu
-  <pre><img width="347" src="https://github.com/user-attachments/assets/8d443098-b973-4402-88e1-a33d9b322037" /></pre>
+    <li>
+      <strong>Enkapsulasi — Setter</strong>
+      <pre><img width="353" src="https://github.com/user-attachments/assets/51efe0de-d401-4daa-bffc-7af765e6667d" /></pre>
+    </li>
 
-  <b>Tampilan GUI</b>
+    <li>
+      <strong>JLabel — "Selamat Datang"</strong>
+      <pre><img width="389" src="https://github.com/user-attachments/assets/35a7d1c1-fae2-4026-bb82-dd3260571e17" /></pre>
+    </li>
+
+    <li>
+      <strong>JButton — Navigasi Menu</strong>
+      <pre><img width="347" src="https://github.com/user-attachments/assets/8d443098-b973-4402-88e1-a33d9b322037" /></pre>
+    </li>
+  </ol>
+
+  <strong>Tampilan GUI</strong>
   <pre><img width="292" src="https://github.com/user-attachments/assets/33a3584a-351b-4f40-aed8-b2c376154754" /></pre>
-</h6>
+
+</details>
+
 
 <hr>
 
