@@ -241,6 +241,8 @@ Untuk tampilan pada struk masing masing akan dipanggil:
   <pre><img width="265" src="https://github.com/user-attachments/assets/50ed0de1-229d-4552-bf36-61c959f06608" /></pre>
 
   <b>Tampilan GUI</b>
+  <h6>/>Pergi Ke menu utama pilih "Export Riwayat"</h6>
+  <pre><img width="289" src="https://github.com/user-attachments/assets/6729c517-8c60-43f4-85cc-0882d3c30677" /></pre>
   <pre><img width="788" src="https://github.com/user-attachments/assets/7ea61914-9615-47cd-8a84-98d9149d89c3" /></pre>
 </h6>
 
@@ -258,6 +260,7 @@ Untuk tampilan pada struk masing masing akan dipanggil:
   <pre><img width="284" src="https://github.com/user-attachments/assets/59786d71-961a-4cdb-b82f-d0a91656cb54" /></pre>
 
   <b>Tampilan GUI</b>
+  <h6>/>Pergi ke menu utama pilih "Rekap Mingguan"</h6>
   <pre><img width="289" src="https://github.com/user-attachments/assets/6729c517-8c60-43f4-85cc-0882d3c30677" /></pre>
   <pre><img width="441" src="https://github.com/user-attachments/assets/bba36b61-c4e8-4676-8849-4237c67efaca" /></pre>
 </h6>
