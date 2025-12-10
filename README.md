@@ -94,44 +94,25 @@
 </h6>
 
 <hr>
-
 <h3>RoomListFrame — GUI Daftar Kamar</h3>
+<h6>
+  1. JFrame
+  <pre><img width="299" src="https://github.com/user-attachments/assets/d6267964-f2f7-4092-a5c0-a22083ad74a3" /></pre>
 
-<details>
-  <summary><strong>Komponen GUI & Tampilan</strong></summary>
+  2. Enkapsulasi
+  <pre><img width="356" src="https://github.com/user-attachments/assets/e71b42cd-627e-4e2d-9fb6-467f59a30561" /></pre>
 
-  <ol>
-    <li>
-      <strong>JFrame</strong>
-      <pre><img width="299" src="https://github.com/user-attachments/assets/d6267964-f2f7-4092-a5c0-a22083ad74a3" /></pre>
-    </li>
+  3. JTable
+  <pre><img width="245" src="https://github.com/user-attachments/assets/dc7d14ec-7abd-4304-9b8f-efd1dc504fba" /></pre>
 
-    <li>
-      <strong>Enkapsulasi</strong>
-      <pre><img width="356" src="https://github.com/user-attachments/assets/e71b42cd-627e-4e2d-9fb6-467f59a30561" /></pre>
-    </li>
+  4. JScrollPane
+  <pre><img width="294" src="https://github.com/user-attachments/assets/c15abaab-f0b2-4dad-a776-9f7114ea1f76" /></pre>
 
-    <li>
-      <strong>JTable</strong>
-      <pre><img width="245" src="https://github.com/user-attachments/assets/dc7d14ec-7abd-4304-9b8f-efd1dc504fba" /></pre>
-    </li>
+  5. DefaultTableModel
+  <pre><img width="421" src="https://github.com/user-attachments/assets/82f0ba07-e8be-4aae-9ecb-3ec65660d074" /></pre>
 
-    <li>
-      <strong>JScrollPane</strong>
-      <pre><img width="294" src="https://github.com/user-attachments/assets/c15abaab-f0b2-4dad-a776-9f7114ea1f76" /></pre>
-    </li>
-
-    <li>
-      <strong>DefaultTableModel</strong>
-      <pre><img width="421" src="https://github.com/user-attachments/assets/82f0ba07-e8be-4aae-9ecb-3ec65660d074" /></pre>
-    </li>
-  </ol>
-
-  <strong>Tampilan GUI</strong>
+  <b>Tampilan GUI</b>
   <pre><img width="446" src="https://github.com/user-attachments/assets/1b5086d6-9a13-4f95-b8a2-3f1b1a52b93f" /></pre>
-
-</details>
-
 </h6>
 
 <hr>
