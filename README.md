@@ -271,22 +271,58 @@
 </h6>
 
 <h1>🟦 Penjelasan Dua Materi Sebelum UTS</h1>
+
 <h6>
-  <br>1. Class adalah blueprint atau cetak biru yang mendefinisikan atribut dan perilaku. Object adalah instance nyata yang dibuat dari class.
-      <pre><img width="325" height="261" alt="image" src="https://github.com/user-attachments/assets/ecabc8a0-b503-453d-993f-a79027849e2d </pre>
-  <br>2. Method adalah fungsi yang dimiliki class untuk menjalankan proses.
-      <pre><img width="305" height="41" alt="image" src="https://github.com/user-attachments/assets/eb3ab7af-0b2d-4d1d-ba26-129591b97ffd" /></pre>
-  <br>3. Package membantu mengelompokkan class berdasarkan fungsi.
-      <pre><img width="234" height="410" alt="image" src="https://github.com/user-attachments/assets/8e4cdab3-cd22-4aad-baff-1b7ff8365574" />/></pre>
-  <br>4. Constructor digunakan untuk menginisialisasi nilai awal object.
-      <pre><img width="469" height="82" alt="image" src="https://github.com/user-attachments/assets/b24f39e2-16fe-477b-a79a-51246f4bb9c1" />/></pre>
-  <br>5. Variabel menyimpan nilai yang dapat berubah. Konstanta: nilai tetap (menggunakan final)
-      <pre><img width="186" height="55" alt="image" src="https://github.com/user-attachments/assets/7cd258bc-d839-4ff5-bcd3-e5dcde91eaab" />/></pre>
-  <br>6. Primitive: int, double, char, boolean
-      <pre><img width="83" height="15" alt="image" src="https://github.com/user-attachments/assets/d794dd21-b8b8-46ba-9d1a-3d8fde429758" />/></pre>
-  <br>7. Kondisional (if, switch)
-      <pre><img width="318" height="239" alt="image" src="https://github.com/user-attachments/assets/58fb9124-0197-4999-a77d-3ebe4417a14d" />/></pre>
-  <br>8.Looping (for, while)
-      <pre><img width="425" height="112" alt="image" src="https://github.com/user-attachments/assets/9347c545-90f9-4194-bedf-6d765f89a5c9" />/></pre>
+
+<br>1. <b>Class</b> adalah blueprint atau cetak biru yang mendefinisikan atribut dan perilaku. 
+Object adalah instance nyata yang dibuat dari class.
+<pre>
+<img width="325" height="261" alt="image" 
+src="https://github.com/user-attachments/assets/ecabc8a0-b503-453d-993f-a79027849e2d" />
+</pre>
+
+<br>2. <b>Method</b> adalah fungsi yang dimiliki class untuk menjalankan proses.
+<pre>
+<img width="305" height="41" alt="image" 
+src="https://github.com/user-attachments/assets/eb3ab7af-0b2d-4d1d-ba26-129591b97ffd" />
+</pre>
+
+<br>3. <b>Package</b> membantu mengelompokkan class berdasarkan fungsi.
+<pre>
+<img width="234" height="410" alt="image" 
+src="https://github.com/user-attachments/assets/8e4cdab3-cd22-4aad-baff-1b7ff8365574" />
+</pre>
+
+<br>4. <b>Constructor</b> digunakan untuk menginisialisasi nilai awal object.
+<pre>
+<img width="469" height="82" alt="image" 
+src="https://github.com/user-attachments/assets/b24f39e2-16fe-477b-a79a-51246f4bb9c1" />
+</pre>
+
+<br>5. <b>Variabel</b> menyimpan nilai yang dapat berubah. 
+<b>Konstanta</b>: nilai tetap (menggunakan <code>final</code>).
+<pre>
+<img width="186" height="55" alt="image" 
+src="https://github.com/user-attachments/assets/7cd258bc-d839-4ff5-bcd3-e5dcde91eaab" />
+</pre>
+
+<br>6. <b>Primitive types</b>: int, double, char, boolean
+<pre>
+<img width="83" height="15" alt="image" 
+src="https://github.com/user-attachments/assets/d794dd21-b8b8-46ba-9d1a-3d8fde429758" />
+</pre>
+
+<br>7. <b>Kondisional</b> (if, switch)
+<pre>
+<img width="318" height="239" alt="image" 
+src="https://github.com/user-attachments/assets/58fb9124-0197-4999-a77d-3ebe4417a14d" />
+</pre>
+
+<br>8. <b>Looping</b> (for, while)
+<pre>
+<img width="425" height="112" alt="image" 
+src="https://github.com/user-attachments/assets/9347c545-90f9-4194-bedf-6d765f89a5c9" />
+</pre>
+
 </h6>
 
