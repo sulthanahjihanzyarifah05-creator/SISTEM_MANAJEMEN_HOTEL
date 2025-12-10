@@ -349,8 +349,6 @@ src="https://github.com/user-attachments/assets/9347c545-90f9-4194-bedf-6d765f89
 
 <h1>📝 Daftar Anggota dan Pembagian Tugas</h1>
 
-<h2>📝 Daftar Anggota dan Pembagian Tugas</h2>
-
 <table>
   <thead>
     <tr>
@@ -377,7 +375,7 @@ src="https://github.com/user-attachments/assets/9347c545-90f9-4194-bedf-6d765f89
       <td>3</td>
       <td>Sulthanah Jihan Zyarifah</td>
       <td>L0324034</td>
-      <td>Mengembangkan ide, membuat program Java, membuat tampilan GUI, membuat repository GitHub</td>
+      <td>Mengembangkan ide, membuat program Java, membuat tampilan GUI, membuat repository GitHub, membuat Readme</td>
     </tr>
   </tbody>
 </table>
