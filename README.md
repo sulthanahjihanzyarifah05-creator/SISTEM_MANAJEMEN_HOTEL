@@ -11,20 +11,34 @@
 </p>
 
 <hr>
-
 <h1>🚀 Cara Menjalankan Project</h1>
 
-<h4>1. Clone Repository</h4>
-<pre>git clone https://github.com/sulthanahjihanzyarifah05-creator/SISTEM_MANAJEMEN_HOTEL.git</pre>
+<details>
+  <summary><strong>1. Clone Repository</strong></summary>
+  <pre>git clone https://github.com/sulthanahjihanzyarifah05-creator/SISTEM_MANAJEMEN_HOTEL.git</pre>
+</details>
 
-<h4>2. Buka di IDE Netbeans</h4>
-<h4>3. Pastikan JDK Terinstall</h4>
-<h4>4. Jalankan Program</h4>
-<h4>
-  Ada 2 tipe Main:
-  <br>• Menggunakan GUI: <b>LoginFrame</b>
-  <br>• Tanpa GUI: <b>HotelApp</b>
-</h4>
+<details>
+  <summary><strong>2. Buka di IDE Netbeans</strong></summary>
+  Buka folder project yang sudah di-clone melalui NetBeans.
+</details>
+
+<details>
+  <summary><strong>3. Pastikan JDK Terinstall</strong></summary>
+  Pastikan sudah menginstall JDK minimal versi 17 atau versi yang kompatibel.
+</details>
+
+<details>
+  <summary><strong>4. Jalankan Program</strong></summary>
+  <p>Ada 2 tipe Main:</p>
+  <ul>
+    <li>GUI: <b>LoginFrame</b></li>
+    <li>Tanpa GUI: <b>HotelApp</b></li>
+  </ul>
+</details>
+
+<hr>
+
 
 <hr>
 
