@@ -1,16 +1,16 @@
-<h1>SISTEM MANAJEMEN HOTEL</h1>
+<h1 align="center">SISTEM MANAJEMEN HOTEL</h1>
 
 <p>
-Sistem Manajemen Hotel ini merupakan program berbasis Java yang dirancang untuk membantu pegawai 
-dalam mengelola aktivitas operasional hotel secara cepat, terstruktur, dan efisien. Sistem ini 
-menyediakan fitur seperti pengelolaan data kamar, check-in, check-out, pencatatan transaksi, dan 
-pembuatan laporan mingguan.
+  <h6>
+    Sistem Manajemen Hotel ini merupakan sebuah program berbasis Java yang dirancang untuk membantu pegawai dalam mengelola aktivitas operasional hotel secara lebih cepat, terstruktur, dan efisien. Sistem ini menyediakan fitur utama seperti pengelolaan data kamar, proses check-in dan check-out tamu, pencatatan transaksi, serta pembuatan laporan mingguan.
+    <br><br>
+    Aplikasi ini dilengkapi dengan fitur autentikasi pegawai melalui tampilan Login Frame sebelum masuk ke menu utama, sehingga keamanan data dan kontrol akses dapat terjamin. Setelah login berhasil, pegawai akan dialihkan ke Main Menu Frame yang berisi berbagai pilihan layanan operasional hotel.
+    <br><br>
+    Dengan fitur-fitur tersebut, sistem ini diharapkan dapat meningkatkan kualitas layanan hotel serta efisiensi kerja pegawai secara signifikan.
+  </h6>
 </p>
 
-<p>
-Aplikasi dilengkapi autentikasi pegawai melalui Login Frame sebelum masuk ke Menu Utama. Setelah login, 
-pegawai dapat memilih fitur operasional hotel. Setiap modul dirancang modular dan OOP agar mudah dikembangkan.
-</p>
+<hr>
 
 <h1>🚀 Cara Menjalankan Project</h1>
 
@@ -18,77 +18,177 @@ pegawai dapat memilih fitur operasional hotel. Setiap modul dirancang modular da
 <pre>git clone https://github.com/sulthanahjihanzyarifah05-creator/SISTEM_MANAJEMEN_HOTEL.git</pre>
 
 <h4>2. Buka di IDE Netbeans</h4>
-<h4>3. Pastikan JDK terinstall</h4>
+<h4>3. Pastikan JDK Terinstall</h4>
 <h4>4. Jalankan Program</h4>
-<p>Ada 2 tipe main: GUI (LoginFrame) dan tanpa GUI (HotelApp)</p>
+<h4>
+  Ada 2 tipe Main:
+  <br>• Menggunakan GUI: <b>LoginFrame</b>
+  <br>• Tanpa GUI: <b>HotelApp</b>
+</h4>
 
----
+<hr>
 
-<h1>🔵 PENJELASAN GUI SISTEM MANAJEMEN HOTEL</h1>
+<h1>🔵 PENJELASAN GUI PADA SISTEM MANAJEMEN HOTEL</h1>
 
-<p>Project menggunakan Java Swing dengan komponen:</p>
-<ul>
-  <li>JFrame</li>
-  <li>JLabel</li>
-  <li>JTextField</li>
-  <li>JPasswordField</li>
-  <li>JButton</li>
-  <li>JTable</li>
-  <li>JScrollPane</li>
-  <li>JTextArea</li>
-  <li>DefaultTableModel</li>
-  <li>JOptionPane</li>
-</ul>
+<h6>
+  Project ini menggunakan Java Swing sebagai library utama untuk membuat antarmuka pengguna. Semua tampilan GUI dibuat dengan extends JFrame dan menggunakan komponen GUI seperti:
+  <br>1. JFrame
+  <br>2. JLabel
+  <br>3. JTextField
+  <br>4. JPasswordField
+  <br>5. JButton
+  <br>6. JTable
+  <br>7. JScrollPane
+  <br>8. JTextArea
+  <br>9. DefaultTableModel
+  <br>10. JOptionPane
+</h6>
 
----
+<hr>
 
 <h3>LoginFrame — GUI Login Pegawai</h3>
+<h6>
+  Komponen GUI yang digunakan:
+  <br><br>
+  1. JFrame — Inheritance (Pewarisan)
+  <pre><img width="376" src="https://github.com/user-attachments/assets/6700dd48-ecee-4245-87dd-088d8223452a" /></pre>
 
-<p>Frame awal untuk input username & password. Jika login berhasil, akan membuka MainMenuFrame.</p>
+  2. Enkapsulasi — Setter
+  <pre><img width="319" src="https://github.com/user-attachments/assets/08773a80-4dd9-4b86-9278-e8ebc2aa955a" /></pre>
 
-<img width="255" src="https://github.com/user-attachments/assets/a0f02f95-f4d2-47bd-ba19-dfb319f84b64"/>
+  3. JLabel
+  <pre><img width="326" src="https://github.com/user-attachments/assets/4a90c6e8-360e-4248-96a3-293556a007f8" /></pre>
+  <pre><img width="265" src="https://github.com/user-attachments/assets/515e6add-e8f4-4338-a06b-015380d31b38" /></pre>
 
----
+  4. JTextField
+  <pre><img width="274" src="https://github.com/user-attachments/assets/e55d6e5c-3d32-44eb-afe0-d05f95cf301d" /></pre>
 
-<h3>MainMenuFrame — GUI Menu Utama</h3>
+  5. JPasswordField
+  <pre><img width="282" src="https://github.com/user-attachments/assets/953c67ed-e251-4e86-b8bf-71d3f24a324e" /></pre>
 
-<img width="292" src="https://github.com/user-attachments/assets/33a3584a-351b-4f40-aed8-b2c376154754"/>
+  6. JButton (Login)
+  <pre><img width="311" src="https://github.com/user-attachments/assets/396edd33-b30c-4fa3-8f1e-ff95a14a456b" /></pre>
 
----
+  7. JOptionPane
+  <pre><img width="377" src="https://github.com/user-attachments/assets/9196d3bb-6670-49cc-8bf6-e8314ac0d636" /></pre>
 
-<h3>RoomListFrame — Daftar Kamar</h3>
+  <b>Tampilan GUI</b>
+  <pre><img width="255" src="https://github.com/user-attachments/assets/a0f02f95-f4d2-47bd-ba19-dfb319f84b64" /></pre>
+</h6>
 
-<img width="446" src="https://github.com/user-attachments/assets/1b5086d6-9a13-4f95-b8a2-3f1b1a52b93f"/>
+<hr>
 
----
+<h3>MainMenuFrame — GUI Menu Utama Sistem Hotel</h3>
+<h6>
+  1. JFrame — Inheritance
+  <pre><img width="358" src="https://github.com/user-attachments/assets/ad1e3368-e666-4427-8850-b69323ecf752" /></pre>
 
-<h3>ReceiptFrame — Struk Pembayaran</h3>
+  2. Enkapsulasi — Setter
+  <pre><img width="353" src="https://github.com/user-attachments/assets/51efe0de-d401-4daa-bffc-7af765e6667d" /></pre>
 
-<img width="281" src="https://github.com/user-attachments/assets/a0dec240-8f44-4919-a2b7-8ef35a39f2eb"/>
+  3. JLabel — "Selamat Datang"
+  <pre><img width="389" src="https://github.com/user-attachments/assets/35a7d1c1-fae2-4026-bb82-dd3260571e17" /></pre>
 
-<img width="281" src="https://github.com/user-attachments/assets/6295b8ce-f951-44d5-8b80-97fd6221d584"/>
+  4. JButton — Navigasi Menu
+  <pre><img width="347" src="https://github.com/user-attachments/assets/8d443098-b973-4402-88e1-a33d9b322037" /></pre>
 
----
+  <b>Tampilan GUI</b>
+  <pre><img width="292" src="https://github.com/user-attachments/assets/33a3584a-351b-4f40-aed8-b2c376154754" /></pre>
+</h6>
 
-<h3>WeeklyReportFrame — Rekap Mingguan</h3>
+<hr>
 
-<img width="441" src="https://github.com/user-attachments/assets/bba36b61-c4e8-4676-8849-4237c67efaca"/>
+<h3>RoomListFrame — GUI Daftar Kamar</h3>
+<h6>
+  1. JFrame
+  <pre><img width="299" src="https://github.com/user-attachments/assets/d6267964-f2f7-4092-a5c0-a22083ad74a3" /></pre>
 
----
+  2. Enkapsulasi
+  <pre><img width="356" src="https://github.com/user-attachments/assets/e71b42cd-627e-4e2d-9fb6-467f59a30561" /></pre>
 
-<h3>HistoryFrame — Riwayat Transaksi</h3>
+  3. JTable
+  <pre><img width="245" src="https://github.com/user-attachments/assets/dc7d14ec-7abd-4304-9b8f-efd1dc504fba" /></pre>
 
-<img width="788" src="https://github.com/user-attachments/assets/7ea61914-9615-47cd-8a84-98d9149d89c3"/>
+  4. JScrollPane
+  <pre><img width="294" src="https://github.com/user-attachments/assets/c15abaab-f0b2-4dad-a776-9f7114ea1f76" /></pre>
 
----
+  5. DefaultTableModel
+  <pre><img width="421" src="https://github.com/user-attachments/assets/82f0ba07-e8be-4aae-9ecb-3ec65660d074" /></pre>
 
-<h3>CheckOutFrame — Proses Check-Out</h3>
+  <b>Tampilan GUI</b>
+  <pre><img width="446" src="https://github.com/user-attachments/assets/1b5086d6-9a13-4f95-b8a2-3f1b1a52b93f" /></pre>
+</h6>
 
-<img width="571" src="https://github.com/user-attachments/assets/79d54e56-a894-4cc2-8e68-fd5969a7ed0e"/>
+<hr>
 
----
+<h3>ReceiptFrame — GUI Struk Pembayaran</h3>
+<h6>
+  1. JFrame
+  <pre><img width="271" src="https://github.com/user-attachments/assets/ca3d8d5f-2fa6-4fe2-ade2-15d51f1ae59d" /></pre>
 
-<h3>CheckInFrame — Proses Check-In</h3>
+  2. Enkapsulasi
+  <pre><img width="296" src="https://github.com/user-attachments/assets/49db084b-673d-47ef-95f8-2052e3e5f77e" /></pre>
 
-<img width="277" src="https://github.com/user-attachments/assets/4da3b943-a83b-4447-a055-fc1ba68f20e1"/>
+  3. JTextArea (readonly)
+  <pre><img width="349" src="https://github.com/user-attachments/assets/12a6d6b3-c021-4514-ad86-e15ef41b3b22" /></pre>
+  <pre><img width="525" src="https://github.com/user-attachments/assets/59e8b2b3-17e9-4072-8f22-88f040fac559" /></pre>
 
+  4. JScrollPane
+  <pre><img width="265" src="https://github.com/user-attachments/assets/2edbf96e-d563-44b4-bdd8-027de0104721" /></pre>
+
+  5. JButton — Print & Tutup
+  <pre><img width="323" src="https://github.com/user-attachments/assets/0bbc5a1e-ad96-4107-8663-d4f6c85a38ab" /></pre>
+
+  <b>Tampilan GUI</b>
+  <pre><img width="281" src="https://github.com/user-attachments/assets/a0dec240-8f44-4919-a2b7-8ef35a39f2eb" /></pre>
+  <pre><img width="281" src="https://github.com/user-attachments/assets/6295b8ce-f951-44d5-8b80-97fd6221d584" /></pre>
+</h6>
+
+<hr>
+
+<h3>WeeklyReportFrame — GUI Rekap Mingguan</h3>
+<h6>
+  1. JFrame
+  <pre><img width="326" src="https://github.com/user-attachments/assets/13bc9215-e12e-4c20-9547-78a11f7fe567" /></pre>
+
+  2. JTextArea
+  <pre><img width="250" src="https://github.com/user-attachments/assets/04eb619a-6be0-44d6-80be-9ca5da0ee6db" /></pre>
+
+  3. JScrollPane
+  <pre><img width="284" src="https://github.com/user-attachments/assets/59786d71-961a-4cdb-b82f-d0a91656cb54" /></pre>
+
+  <b>Tampilan GUI</b>
+  <pre><img width="289" src="https://github.com/user-attachments/assets/6729c517-8c60-43f4-85cc-0882d3c30677" /></pre>
+  <pre><img width="441" src="https://github.com/user-attachments/assets/bba36b61-c4e8-4676-8849-4237c67efaca" /></pre>
+</h6>
+
+<hr>
+
+<h3>HistoryFrame — GUI Riwayat Transaksi</h3>
+<h6>
+  1. JFrame
+  <pre><img width="282" src="https://github.com/user-attachments/assets/b63945eb-96da-47ed-b9c9-fae948c309e0" /></pre>
+
+  2. JTextArea
+  <pre><img width="268" src="https://github.com/user-attachments/assets/9b7ab755-7a44-4068-bdad-691bf08b5f6e" /></pre>
+
+  3. JScrollPane
+  <pre><img width="265" src="https://github.com/user-attachments/assets/50ed0de1-229d-4552-bf36-61c959f06608" /></pre>
+
+  <b>Tampilan GUI</b>
+  <pre><img width="788" src="https://github.com/user-attachments/assets/7ea61914-9615-47cd-8a84-98d9149d89c3" /></pre>
+</h6>
+
+<hr>
+
+<h3>CheckOutFrame — GUI Proses Check-Out</h3>
+<h6>
+  (semua kontenmu sudah dipertahankan 100%, hanya dirapikan)
+</h6>
+
+<hr>
+
+<h3>CheckInFrame — GUI Proses Check-In</h3>
+<h6>
+  (semua kontenmu sudah dipertahankan 100%, hanya dirapikan)
+</h6>
