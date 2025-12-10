@@ -273,9 +273,9 @@
 <h1>🟦 Penjelasan Dua Materi Sebelum UTS</h1>
 <h6>
   <br>1. Class adalah blueprint atau cetak biru yang mendefinisikan atribut dan perilaku. Object adalah instance nyata yang dibuat dari class.
-      <pre><img width="325" height="261" alt="image" src="https://github.com/user-attachments/assets/ecabc8a0-b503-453d-993f-a79027849e2d" /></pre>
+      <pre><img width="325" height="261" alt="image" src="https://github.com/user-attachments/assets/ecabc8a0-b503-453d-993f-a79027849e2d </pre>
   <br>2. Method adalah fungsi yang dimiliki class untuk menjalankan proses.
-      <pre><img width="305" height="41" alt="image" src="https://github.com/user-attachments/assets/eb3ab7af-0b2d-4d1d-ba26-129591b97ffd" />/></pre>
+      <pre><img width="305" height="41" alt="image" src="https://github.com/user-attachments/assets/eb3ab7af-0b2d-4d1d-ba26-129591b97ffd" /></pre>
   <br>3. Package membantu mengelompokkan class berdasarkan fungsi.
       <pre><img width="234" height="410" alt="image" src="https://github.com/user-attachments/assets/8e4cdab3-cd22-4aad-baff-1b7ff8365574" />/></pre>
   <br>4. Constructor digunakan untuk menginisialisasi nilai awal object.
