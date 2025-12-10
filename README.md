@@ -183,16 +183,15 @@
 5. JButton — tombol "proses" dan "cetak struk"  
 <pre><img width="344" src="https://github.com/user-attachments/assets/14e93bd3-384e-44a6-993d-2ee4a3e6cbad" /></pre>
 <pre><img width="278" src="https://github.com/user-attachments/assets/97e56863-805d-48f5-bc3c-f219f50fe505" /></pre>
-
-Untuk tampilan pada struk masing masing akan dipanggil:  
-<pre><img width="530" src="https://github.com/user-attachments/assets/843d6456-27d8-4825-8d69-9434dd0cfc40" /></pre>
-
-<b>Tampilan Program Check-Out:</b>  
 <pre><img width="571" src="https://github.com/user-attachments/assets/79d54e56-a894-4cc2-8e68-fd5969a7ed0e" /></pre>
 
 6. JOptionPane — pop-up Berhasil/Error/Gagal  
 <pre><img width="593" src="https://github.com/user-attachments/assets/59605c84-c9c1-49d3-9a20-39dfa2392cf0" /></pre>
 
+Untuk tampilan pada struk masing masing akan dipanggil:  
+<pre><img width="530" src="https://github.com/user-attachments/assets/843d6456-27d8-4825-8d69-9434dd0cfc40" /></pre>
+
+<b>Tampilan Program Check-Out:</b>  
 <b>Tampilan:</b>  
 <pre><img width="278" src="https://github.com/user-attachments/assets/e26c6e0d-7421-4cea-8d1c-6fffbaa90229" /></pre>
 <pre><img width="197" src="https://github.com/user-attachments/assets/62924dfc-7698-490a-b228-e80f68b8927a" /></pre>
@@ -241,7 +240,7 @@ Untuk tampilan pada struk masing masing akan dipanggil:
   <pre><img width="265" src="https://github.com/user-attachments/assets/50ed0de1-229d-4552-bf36-61c959f06608" /></pre>
 
   <b>Tampilan GUI</b>
-  <h6>/>Pergi Ke menu utama pilih "Export Riwayat"</h6>
+  <h6>Pergi Ke menu utama pilih "Export Riwayat"</h6>
   <pre><img width="289" src="https://github.com/user-attachments/assets/6729c517-8c60-43f4-85cc-0882d3c30677" /></pre>
   <pre><img width="788" src="https://github.com/user-attachments/assets/7ea61914-9615-47cd-8a84-98d9149d89c3" /></pre>
 </h6>
@@ -260,7 +259,7 @@ Untuk tampilan pada struk masing masing akan dipanggil:
   <pre><img width="284" src="https://github.com/user-attachments/assets/59786d71-961a-4cdb-b82f-d0a91656cb54" /></pre>
 
   <b>Tampilan GUI</b>
-  <h6>/>Pergi ke menu utama pilih "Rekap Mingguan"</h6>
+  <h6>Pergi ke menu utama pilih "Rekap Mingguan"</h6>
   <pre><img width="289" src="https://github.com/user-attachments/assets/6729c517-8c60-43f4-85cc-0882d3c30677" /></pre>
   <pre><img width="441" src="https://github.com/user-attachments/assets/bba36b61-c4e8-4676-8849-4237c67efaca" /></pre>
 </h6>
