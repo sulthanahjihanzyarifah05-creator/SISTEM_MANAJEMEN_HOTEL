@@ -346,7 +346,9 @@ src="https://github.com/user-attachments/assets/9347c545-90f9-4194-bedf-6d765f89
 </h6>
 
 
-<h1>PEMBAGIAN TUGAS</h1>
+
+<h1>📝 Daftar Anggota dan Pembagian Tugas</h1>
+
 <h2>📝 Daftar Anggota dan Pembagian Tugas</h2>
 
 <table>
@@ -361,12 +363,25 @@ src="https://github.com/user-attachments/assets/9347c545-90f9-4194-bedf-6d765f89
   <tbody>
     <tr>
       <td>1</td>
+      <td>Muhammad Rafi Setianto</td>
+      <td>L0324026</td>
+      <td>Mengembangkan ide, mengedit video, berkontribusi dalam pembuatan program</td>
+    </tr>
+    <tr>
+      <td>2</td>
+      <td>Risma Ramadhani</td>
+      <td>L0324034</td>
+      <td>Membuat ide, mengedit video, berkontribusi dalam pembuatan program</td>
+    </tr>
+    <tr>
+      <td>3</td>
       <td>Sulthanah Jihan Zyarifah</td>
       <td>L0324034</td>
       <td>Mengembangkan ide, membuat program Java, membuat tampilan GUI, membuat repository GitHub</td>
     </tr>
   </tbody>
 </table>
+
 
 
 
