@@ -39,9 +39,6 @@
 
 <hr>
 
-
-<hr>
-
 <h1>🔵 PENJELASAN GUI PADA SISTEM MANAJEMEN HOTEL</h1>
 
 <h6>
@@ -61,34 +58,39 @@
 <hr>
 
 <h3>LoginFrame — GUI Login Pegawai</h3>
-<h6>
-  Komponen GUI yang digunakan:
-  <br><br>
-  1. JFrame — Inheritance (Pewarisan)
+
+<details>
+  <summary><strong>Komponen GUI LoginFrame</strong></summary>
+
+  1. <strong>JFrame — Inheritance (Pewarisan)</strong>
   <pre><img width="376" src="https://github.com/user-attachments/assets/6700dd48-ecee-4245-87dd-088d8223452a" /></pre>
 
-  2. Enkapsulasi — Setter
+  2. <strong>Enkapsulasi — Setter</strong>
   <pre><img width="319" src="https://github.com/user-attachments/assets/08773a80-4dd9-4b86-9278-e8ebc2aa955a" /></pre>
 
-  3. JLabel
+  3. <strong>JLabel</strong>
   <pre><img width="326" src="https://github.com/user-attachments/assets/4a90c6e8-360e-4248-96a3-293556a007f8" /></pre>
   <pre><img width="265" src="https://github.com/user-attachments/assets/515e6add-e8f4-4338-a06b-015380d31b38" /></pre>
 
-  4. JTextField
+  4. <strong>JTextField</strong>
   <pre><img width="274" src="https://github.com/user-attachments/assets/e55d6e5c-3d32-44eb-afe0-d05f95cf301d" /></pre>
 
-  5. JPasswordField
+  5. <strong>JPasswordField</strong>
   <pre><img width="282" src="https://github.com/user-attachments/assets/953c67ed-e251-4e86-b8bf-71d3f24a324e" /></pre>
 
-  6. JButton (Login)
+  6. <strong>JButton (Login)</strong>
   <pre><img width="311" src="https://github.com/user-attachments/assets/396edd33-b30c-4fa3-8f1e-ff95a14a456b" /></pre>
 
-  7. JOptionPane
+  7. <strong>JOptionPane</strong>
   <pre><img width="377" src="https://github.com/user-attachments/assets/9196d3bb-6670-49cc-8bf6-e8314ac0d636" /></pre>
 
-  <b>Tampilan GUI</b>
-  <pre><img width="255" src="https://github.com/user-attachments/assets/a0f02f95-f4d2-47bd-ba19-dfb319f84b64" /></pre>
-</h6>
+  <details>
+    <summary><strong>Tampilan GUI LoginFrame</strong></summary>
+    <pre><img width="255" src="https://github.com/user-attachments/assets/a0f02f95-f4d2-47bd-ba19-dfb319f84b64" /></pre>
+  </details>
+
+</details>
+
 
 <hr>
 
