@@ -328,3 +328,23 @@ src="https://github.com/user-attachments/assets/9347c545-90f9-4194-bedf-6d765f89
 
 <h1>🟩 Penjelasan Materi Setelah UTS (Non-GUI)</h1>
 
+<h6>
+
+<br>1. <b>Encapsulation (Enkapsulasi)</b> Menyembunyikan data agar lebih aman menggunakan private + getter/setter.
+<pre>
+<img width="216" height="194" alt="image" src="https://github.com/user-attachments/assets/77840267-2436-40c9-ba0f-4292ae4cffc0" />
+</pre>
+
+<br>2. <b>Inheritance (Pewarisan)</b> Class turunan mewarisi atribut dan method class induk.
+<pre>
+<img width="298" height="117" alt="image" src="https://github.com/user-attachments/assets/ebee639f-6270-4b6d-9c0b-c71f96dc52c6" />
+</pre>
+
+<br>3. <b>Polymorphism</b> Satu method dapat memiliki banyak bentuk.
+<pre>
+<img width="364" height="164" alt="image" src="https://github.com/user-attachments/assets/5be4fc8c-a9a5-43d8-b79a-f02f3aafe766" />
+</pre>
+
+</h6>
+
+
