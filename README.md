@@ -11,26 +11,39 @@
 </p>
 
 <hr>
-<ol>
-  <li>
-    <strong>Buka di IDE Netbeans</strong>
-    <p>Buka folder project yang sudah di-clone melalui NetBeans.</p>
-  </li>
+<h1>🚀 Cara Menjalankan Project</h1>
 
-  <li>
-    <strong>Pastikan JDK Terinstall</strong>
-    <p>Pastikan sudah menginstall JDK minimal versi 17 atau versi yang kompatibel.</p>
-  </li>
+<details>
+  <summary><strong>Petunjuk Lengkap</strong></summary>
 
-  <li>
-    <strong>Jalankan Program</strong>
-    <p>Ada 2 tipe Main:</p>
-    <ul>
-      <li>GUI: <b>LoginFrame</b></li>
-      <li>Tanpa GUI: <b>HotelApp</b></li>
-    </ul>
-  </li>
-</ol>
+  <ol>
+    <li>
+      <strong>Clone Repository</strong>
+      ```
+git clone https://github.com/sulthanahjihanzyarifah05-creator/SISTEM_MANAJEMEN_HOTEL.git
+      ```
+    </li>
+
+    <li>
+      <strong>Buka di IDE Netbeans</strong><br>
+      Buka folder project yang sudah di-clone melalui NetBeans.
+    </li>
+
+    <li>
+      <strong>Pastikan JDK Terinstall</strong><br>
+      Pastikan sudah menginstall JDK minimal versi 17 atau versi yang kompatibel.
+    </li>
+
+    <li>
+      <strong>Jalankan Program</strong><br>
+      Ada 2 tipe Main:
+      <ul>
+        <li>GUI: <b>LoginFrame</b></li>
+        <li>Tanpa GUI: <b>HotelApp</b></li>
+      </ul>
+    </li>
+  </ol>
+</details>
 
 
 <hr>
