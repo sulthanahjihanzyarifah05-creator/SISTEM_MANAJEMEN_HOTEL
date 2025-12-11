@@ -146,34 +146,44 @@
   <!-- CHECK-IN -->
   <h3>CheckInFrame — GUI Proses Check-In</h3>
   <h6>
-    1. JFrame  
-    <pre><img width="302" src="https://github.com/user-attachments/assets/d53075c5-7aba-4740-ac46-3dca3bcc473d" /></pre>
+1. JFrame — Inheritance (Pewarisan)  
+<pre><img width="302" src="https://github.com/user-attachments/assets/d53075c5-7aba-4740-ac46-3dca3bcc473d" /></pre>
 
-    2. Enkapsulasi  
-    <pre><img width="356" src="https://github.com/user-attachments/assets/cf82891c-548c-49d3-a501-9ae009aa72d4" /></pre>
+2. Enkapsulasi  
+<pre><img width="356" src="https://github.com/user-attachments/assets/cf82891c-548c-49d3-a501-9ae009aa72d4" /></pre>
 
-    3. JLabel  
-    <pre><img width="256" src="https://github.com/user-attachments/assets/195f6224-5fba-4270-99cf-523707b6ca8e" /></pre>
-    <pre><img width="313" src="https://github.com/user-attachments/assets/20388560-c1ae-40de-b083-a664c8b3268f" /></pre>
+3. JLabel  
+<pre><img width="256" src="https://github.com/user-attachments/assets/195f6224-5fba-4270-99cf-523707b6ca8e" /></pre>
+<pre><img width="313" src="https://github.com/user-attachments/assets/20388560-c1ae-40de-b083-a664c8b3268f" /></pre>
 
-    4. JTextField  
-    <pre><img width="261" src="https://github.com/user-attachments/assets/7f09d324-e63a-44d0-b283-640d814857dd" /></pre>
-    <pre><img width="257" src="https://github.com/user-attachments/assets/949f23a3-106c-4183-9101-57533145c9d0" /></pre>
-    <pre><img width="271" src="https://github.com/user-attachments/assets/824f8626-625f-4785-a1bd-014c34a8d151" /></pre>
+4. JTextField  
+<pre><img width="261" src="https://github.com/user-attachments/assets/7f09d324-e63a-44d0-b283-640d814857dd" /></pre>
+<pre><img width="257" src="https://github.com/user-attachments/assets/949f23a3-106c-4183-9101-57533145c9d0" /></pre>
+<pre><img width="271" src="https://github.com/user-attachments/assets/824f8626-625f-4785-a1bd-014c34a8d151" /></pre>
 
-    5. JButton — “Check In”  
-    <pre><img width="262" src="https://github.com/user-attachments/assets/a528af6b-c950-4d01-b77a-dc71bd3bd1dd" /></pre>
+5. JButton — tombol "CheckIn"  
+<pre><img width="262" src="https://github.com/user-attachments/assets/a528af6b-c950-4d01-b77a-dc71bd3bd1dd" /></pre>
 
-    6. JOptionPane  
-    <pre><img width="358" src="https://github.com/user-attachments/assets/5274853e-28c4-4f00-a1a9-e577eda2e172" /></pre>
+6. JOptionPane  
+<pre><img width="358" src="https://github.com/user-attachments/assets/5274853e-28c4-4f00-a1a9-e577eda2e172" /></pre>
 
-    <b>Tampilan & Contoh Input</b>  
-    <pre><img width="277" src="https://github.com/user-attachments/assets/4da3b943-a83b-4447-a055-fc1ba68f20e1" /></pre>
-    <pre><img width="199" src="https://github.com/user-attachments/assets/895f3868-5cc3-4bc6-aad4-d405a54b24d9" /></pre>
-    <pre><img width="278" src="https://github.com/user-attachments/assets/41275325-cd21-4279-a726-ba617b794ce2" /></pre>
+<b>Digunakan untuk:</b>  
+1. Input nama tamu  
+2. Memilih nomor kamar  
+3. Mengisi lama menginap  
+4. Validasi lengkap saat Check-In  
 
-    <b>Cek Status Kamar</b>  
-    <pre><img width="443" src="https://github.com/user-attachments/assets/f0703c4d-e8fd-4a7a-97ea-e8c843df9c11" /></pre>
+<b>Tamu 1</b>  
+<pre><img width="277" src="https://github.com/user-attachments/assets/4da3b943-a83b-4447-a055-fc1ba68f20e1" /></pre>
+<pre><img width="199" src="https://github.com/user-attachments/assets/895f3868-5cc3-4bc6-aad4-d405a54b24d9" /></pre>
+
+<b>Tamu 2</b>  
+<pre><img width="278" src="https://github.com/user-attachments/assets/41275325-cd21-4279-a726-ba617b794ce2" /></pre>
+<pre><img width="197" src="https://github.com/user-attachments/assets/a1d3215d-a58d-41d8-974a-b9bea5f4be84" /></pre>
+
+<b>Cek status dengan memilih menu "Lihat Kamar"</b>  
+<pre><img width="443" src="https://github.com/user-attachments/assets/f0703c4d-e8fd-4a7a-97ea-e8c843df9c11" /></pre>
+
   </h6>
 
   <hr>
