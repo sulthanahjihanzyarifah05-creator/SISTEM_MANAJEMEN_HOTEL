@@ -290,61 +290,52 @@ Untuk tampilan pada struk masing masing akan dipanggil:
 
 <hr>
 
-
+<h6>
 
 <h1>🟦 Penjelasan Dua Materi Sebelum UTS</h1>
 
-<h6>
+<details>
+  <summary><strong>Klik untuk melihat penjelasan lengkap</strong></summary>
+  <br>
 
-<br>1. <b>Class</b> adalah blueprint atau cetak biru yang mendefinisikan atribut dan perilaku. 
-Object adalah instance nyata yang dibuat dari class.
-<pre>
-<img width="325" height="261" alt="image" 
-src="https://github.com/user-attachments/assets/ecabc8a0-b503-453d-993f-a79027849e2d" />
-</pre>
+  <h6>
 
-<br>2. <b>Method</b> adalah fungsi yang dimiliki class untuk menjalankan proses.
-<pre>
-<img width="305" height="41" alt="image" 
-src="https://github.com/user-attachments/assets/eb3ab7af-0b2d-4d1d-ba26-129591b97ffd" />
-</pre>
+  <br><b>1. Class</b> adalah blueprint atau cetak biru yang mendefinisikan atribut dan perilaku. 
+  Object adalah instance nyata yang dibuat dari class.
+  <br>
+  <img width="325" height="261" src="https://github.com/user-attachments/assets/ecabc8a0-b503-453d-993f-a79027849e2d" />
 
-<br>3. <b>Package</b> membantu mengelompokkan class berdasarkan fungsi.
-<pre>
-<img width="234" height="410" alt="image" 
-src="https://github.com/user-attachments/assets/8e4cdab3-cd22-4aad-baff-1b7ff8365574" />
-</pre>
+  <br><br><b>2. Method</b> adalah fungsi yang dimiliki class untuk menjalankan proses.
+  <br>
+  <img width="305" height="41" src="https://github.com/user-attachments/assets/eb3ab7af-0b2d-4d1d-ba26-129591b97ffd" />
 
-<br>4. <b>Constructor</b> digunakan untuk menginisialisasi nilai awal object.
-<pre>
-<img width="469" height="82" alt="image" 
-src="https://github.com/user-attachments/assets/b24f39e2-16fe-477b-a79a-51246f4bb9c1" />
-</pre>
+  <br><br><b>3. Package</b> membantu mengelompokkan class berdasarkan fungsi.
+  <br>
+  <img width="234" height="410" src="https://github.com/user-attachments/assets/8e4cdab3-cd22-4aad-baff-1b7ff8365574" />
 
-<br>5. <b>Variabel</b> menyimpan nilai yang dapat berubah. 
-<b>Konstanta</b>: nilai tetap (menggunakan <code>final</code>).
-<pre>
-<img width="186" height="55" alt="image" 
-src="https://github.com/user-attachments/assets/7cd258bc-d839-4ff5-bcd3-e5dcde91eaab" />
-</pre>
+  <br><br><b>4. Constructor</b> digunakan untuk menginisialisasi nilai awal object.
+  <br>
+  <img width="469" height="82" src="https://github.com/user-attachments/assets/b24f39e2-16fe-477b-a79a-51246f4bb9c1" />
 
-<br>6. <b>Primitive types</b>: int, double, char, boolean
-<pre>
-<img width="83" height="15" alt="image" 
-src="https://github.com/user-attachments/assets/d794dd21-b8b8-46ba-9d1a-3d8fde429758" />
-</pre>
+  <br><br><b>5. Variabel</b> menyimpan nilai yang dapat berubah. 
+  <b>Konstanta</b> (final) adalah nilai tetap.
+  <br>
+  <img width="186" height="55" src="https://github.com/user-attachments/assets/7cd258bc-d839-4ff5-bcd3-e5dcde91eaab" />
 
-<br>7. <b>Kondisional</b> (if, switch)
-<pre>
-<img width="318" height="239" alt="image" 
-src="https://github.com/user-attachments/assets/58fb9124-0197-4999-a77d-3ebe4417a14d" />
-</pre>
+  <br><br><b>6. Primitive Types</b> seperti int, double, char, boolean.
+  <br>
+  <img width="83" height="15" src="https://github.com/user-attachments/assets/d794dd21-b8b8-46ba-9d1a-3d8fde429758" />
 
-<br>8. <b>Looping</b> (for, while)
-<pre>
-<img width="425" height="112" alt="image" 
-src="https://github.com/user-attachments/assets/9347c545-90f9-4194-bedf-6d765f89a5c9" />
-</pre>
+  <br><br><b>7. Kondisional</b> (if, switch).
+  <br>
+  <img width="318" height="239" src="https://github.com/user-attachments/assets/58fb9124-0197-4999-a77d-3ebe4417a14d" />
+
+  <br><br><b>8. Looping</b> (for, while).
+  <br>
+  <img width="425" height="112" src="https://github.com/user-attachments/assets/9347c545-90f9-4194-bedf-6d765f89a5c9" />
+
+  </h6>
+</details>
 
 </h6>
 
