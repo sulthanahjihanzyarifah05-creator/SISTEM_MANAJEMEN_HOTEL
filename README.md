@@ -300,8 +300,46 @@ Untuk tampilan pada struk masing masing akan dipanggil:
 <details>
   <summary><strong>Lihat Disini ya Kackaak</strong></summary>
   <br>
-  <br><b>1. Pertama Login Pegawai dulu, disini ada 3 pegawai</b> 
+<h6>
+  <br><b>1. Pertama Login Pegawai dulu, disini yang bisa login ada 3 pegawai</b> 
+  <br>
+  <img<img width="256" height="335" alt="image" src="https://github.com/user-attachments/assets/08ce1538-b4a7-4a98-abb3-eac0d50cc6d7" />
+  <br><b>2. Tekan Tombol "Login" dan akan muncul status Berhasil Login. Kemudian Klik "Oke" untuk ke menu Utama</b>
+  <br>
+  <img <img width="121" height="40" alt="image" src="https://github.com/user-attachments/assets/49d3fd0a-e410-445b-a7b2-053ef15e48d0" />
+  <img<img width="220" height="94" alt="image" src="https://github.com/user-attachments/assets/15d1bd84-fd23-43ce-9274-6018f92216ac" />
+  <br><b>3.Tampilan Menu Utama</b>
+  <br>
+  <img <img width="293" height="298" alt="image" src="https://github.com/user-attachments/assets/f63e7de2-e543-4851-a050-41f4d9492af2" />
+  <br><b>4. Pilih Menu "Lihat Kamar", disini akan terlihat masih kosong, karena beluma ada yang Check-In</b>
+  <br>
+  <img <img width="443" height="296" alt="image" src="https://github.com/user-attachments/assets/30595856-bcef-4906-9752-7f55eb3c9b12" />
+  <br><b>5. Selanjutnya Close  saja untuk bagian Lihat Kamar, Kemudia Pilih "Check-In" dan Mengisikan Proses Check-In, jika Sudah
+  Tekan Tombol "Check-In"</b>
+  Jika Sudah melakukan Pengecekan Ckeck-In, dengan cara pilih menu "Lihat Kamar"
+  <br>
+  <img <img width="443" height="296" alt="image" src="https://github.com/user-attachments/assets/30595856-bcef-4906-9752-7f55eb3c9b12" />
+  <img width="278" height="195" alt="image" src="https://github.com/user-attachments/assets/b5a8716f-c5ed-42a5-baed-e286f0bd1cb9" />
+  <img <img width="445" height="297" alt="image" src="https://github.com/user-attachments/assets/1d4cc5c5-9a34-47a6-8ecc-0f2babc2400d" />
+  <br>
+  <br><b>6. Proses Check-Out</b>
+  Pilih pada menu Utama untuk "Check-Out" selanjutnya ada perintah untuk memasukan "Nomor Kamar" untuk tamu. Jika sudah memasukan klik "PROSES"
+  lalu ada tampilan detail Tamu, nah kita tawarkan ke tamu untuk metode pembayarnya dan Tahap Cetak Struk.
+  <br>
+  <img<img width="279" height="236" alt="image" src="https://github.com/user-attachments/assets/f0fe84d0-86b7-4c76-96ee-41bdfeb67d1d" />
+  <img <img width="202" height="206" alt="image" src="https://github.com/user-attachments/assets/b293689e-2aa2-4f14-afd8-710a0c3fe0bb" />
+  <img <img width="200" height="94" alt="image" src="https://github.com/user-attachments/assets/91746a74-8570-4fe8-8c5d-6199efddb9a3" />
+  <img <img width="279" height="240" alt="image" src="https://github.com/user-attachments/assets/e1a69f9f-f85c-4770-8ca5-aa921d53d600" />
+  <img <img width="284" height="335" alt="image" src="https://github.com/user-attachments/assets/56d3a065-a159-4fb6-82b1-4b66768e5065" />
+  <br><b>7. Export Riwayat, disini semu akan tersepam mulai dari proses Check-In dan Check-Out </b>
+  <br>
+  <img <img width="722" height="185" alt="image" src="https://github.com/user-attachments/assets/1687051e-6a7d-4b81-b2a9-a4c2dc5d90ac" />
+  <br><b>8. Rekap Mingguan berbeda dengan Export Riwayat, karena yang terekam disini jika sudah menyelesaikan proses Check-Out saja</b>
+  <br>
+  <img <img width="444" height="451" alt="image" src="https://github.com/user-attachments/assets/6ea7bfa6-d797-40b4-8cdd-8e13c5d3b498" />
+</h6>
 </details>
+  
 <hr>
 
 <h1>🟦 Penjelasan Dua Materi Sebelum UTS</h1>
