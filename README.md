@@ -59,15 +59,9 @@
 
 <hr>
 <h3>LoginFrame — GUI Login Pegawai</h3>
-
-<details>
-  <summary><strong> penjelasan komponen GUI</strong></summary>
-  <br>
-
-  <h6>
-    Komponen GUI yang digunakan:
-    <br>
-  <br>
+<h6>
+  Komponen GUI yang digunakan:
+  <br><br>
   1. JFrame — Inheritance (Pewarisan)
   <pre><img width="376" src="https://github.com/user-attachments/assets/6700dd48-ecee-4245-87dd-088d8223452a" /></pre>
 
@@ -90,17 +84,9 @@
   7. JOptionPane
   <pre><img width="377" src="https://github.com/user-attachments/assets/9196d3bb-6670-49cc-8bf6-e8314ac0d636" /></pre>
 
-
-<details>
-  <summary><strong>Tampilan GUI</strong></summary>
-  <br>
-
-  <pre>
-    <img width="255" src="https://github.com/user-attachments/assets/a0f02f95-f4d2-47bd-ba19-dfb319f84b64" />
-  </pre>
-</details>
-
-
+  <b>Tampilan GUI</b>
+  <pre><img width="255" src="https://github.com/user-attachments/assets/a0f02f95-f4d2-47bd-ba19-dfb319f84b64" /></pre>
+</h6>
 <hr>
 
 <h3>MainMenuFrame — GUI Menu Utama Sistem Hotel</h3>
