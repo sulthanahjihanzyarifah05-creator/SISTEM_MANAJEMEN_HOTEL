@@ -67,8 +67,6 @@
   <h6>
     Komponen GUI yang digunakan:
     <br>
-
-   Komponen GUI yang digunakan:
   <br>
   1. JFrame — Inheritance (Pewarisan)
   <pre><img width="376" src="https://github.com/user-attachments/assets/6700dd48-ecee-4245-87dd-088d8223452a" /></pre>
@@ -98,15 +96,7 @@
   </h6>
 </details>
 
-<br>
 
-<details>
-  <summary><strong>tampilan GUI</strong></summary>
-  <br>
-
-  <pre><img width="255" src="https://github.com/user-attachments/assets/a0f02f95-f4d2-47bd-ba19-dfb319f84b64" /></pre>
-
-</details>
 
 <hr>
 
