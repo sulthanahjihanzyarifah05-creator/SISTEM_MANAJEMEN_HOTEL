@@ -438,7 +438,7 @@ Untuk tampilan pada struk masing masing akan dipanggil:
     <tr>
       <td>2</td>
       <td>Risma Ramadhani</td>
-      <td>L0324034</td>
+      <td>L0324030</td>
       <td>Membuat ide, mengedit video, berkontribusi dalam pembuatan program, Berkontribusi dalam pembuatan pada Github </td>
     </tr>
     <tr>
