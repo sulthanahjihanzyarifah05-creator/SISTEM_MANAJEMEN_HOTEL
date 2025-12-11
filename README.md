@@ -300,6 +300,7 @@ Untuk tampilan pada struk masing masing akan dipanggil:
 <details>
   <summary><strong>Lihat Disini ya Kackaak</strong></summary>
   <br>
+  <br><b>1. Pertama Login Pegawai dulu, disini ada 3 pegawai</b> 
 </details>
 <hr>
 
@@ -369,9 +370,6 @@ Untuk tampilan pada struk masing masing akan dipanggil:
 
   </h6>
 </details>
-``
-
-
 
 <h1>📝 Daftar Anggota dan Pembagian Tugas</h1>
 
