@@ -433,13 +433,13 @@ Untuk tampilan pada struk masing masing akan dipanggil:
       <td>1</td>
       <td>Muhammad Rafi Setianto</td>
       <td>L0324026</td>
-      <td>Mengembangkan ide, mengedit video, berkontribusi dalam pembuatan program</td>
+      <td>Mengembangkan ide, mengedit video, berkontribusi dalam pembuatan program, berkontriburi dalam pembuatan pada Github</td>
     </tr>
     <tr>
       <td>2</td>
       <td>Risma Ramadhani</td>
       <td>L0324034</td>
-      <td>Membuat ide, mengedit video, berkontribusi dalam pembuatan program</td>
+      <td>Membuat ide, mengedit video, berkontribusi dalam pembuatan program, Berkontribusi dalam pembuatan pada Github </td>
     </tr>
     <tr>
       <td>3</td>
