@@ -58,6 +58,7 @@
 </details>
 
 <hr>
+
 <h3>LoginFrame — GUI Login Pegawai</h3>
 <h6>
   Komponen GUI yang digunakan:
