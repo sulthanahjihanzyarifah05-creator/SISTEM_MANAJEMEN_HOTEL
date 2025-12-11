@@ -89,19 +89,11 @@
 
   7. JOptionPane
   <pre><img width="377" src="https://github.com/user-attachments/assets/9196d3bb-6670-49cc-8bf6-e8314ac0d636" /></pre>
-
-<detaills>
-  <h6>
+<details>
   <summary><strong>Tampilan GUI</strong></summary>
-  </h6>
   <br>
- 
-  <pre><img width="255" src="https://github.com/user-attachments/assets/a0f02f95-f4d2-47bd-ba19-dfb319f84b64" /></pre>
-</h6>
-  </h6>
+  <img width="255" src="https://github.com/user-attachments/assets/a0f02f95-f4d2-47bd-ba19-dfb319f84b64" />
 </details>
-
-
 
 <hr>
 
