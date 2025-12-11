@@ -191,26 +191,37 @@
   <!-- CHECK-OUT -->
   <h3>CheckOutFrame — GUI Proses Check-Out</h3>
   <h6>
-    1. JFrame  
-    <pre><img width="311" src="https://github.com/user-attachments/assets/4563488f-c990-4f8d-8343-394dfd6b900f" /></pre>
+ 1. JFrame — Inheritance (Pewarisan)  
+<pre><img width="311" src="https://github.com/user-attachments/assets/4563488f-c990-4f8d-8343-394dfd6b900f" /></pre>
 
-    2. Enkapsulasi  
-    <pre><img width="458" src="https://github.com/user-attachments/assets/eb527baa-3460-4758-be9f-328f8ea45432" /></pre>
+2. Enkapsulasi  
+<pre><img width="458" src="https://github.com/user-attachments/assets/eb527baa-3460-4758-be9f-328f8ea45432" /></pre>
 
-    3. JLabel  
-    <pre><img width="318" src="https://github.com/user-attachments/assets/9942f871-8c12-401e-8e8e-007a3f37ff1d" /></pre>
+3. JLabel — menampilkan "nomor kamar :"  
+<pre><img width="318" src="https://github.com/user-attachments/assets/9942f871-8c12-401e-8e8e-007a3f37ff1d" /></pre>
 
-    4. JTextField  
-    <pre><img width="245" src="https://github.com/user-attachments/assets/74819a5a-2810-4a5a-9907-d50c82235811" /></pre>
+4. JTextField  
+<pre><img width="245" src="https://github.com/user-attachments/assets/74819a5a-2810-4a5a-9907-d50c82235811" /></pre>
 
-    5. JButton — proses & cetak struk  
-    <pre><img width="278" src="https://github.com/user-attachments/assets/97e56863-805d-48f5-bc3c-f219f50fe505" /></pre>
+5. JButton — tombol "proses" dan "cetak struk"  
+<pre><img width="344" src="https://github.com/user-attachments/assets/14e93bd3-384e-44a6-993d-2ee4a3e6cbad" /></pre>
+<pre><img width="278" src="https://github.com/user-attachments/assets/97e56863-805d-48f5-bc3c-f219f50fe505" /></pre>
+<pre><img width="571" src="https://github.com/user-attachments/assets/79d54e56-a894-4cc2-8e68-fd5969a7ed0e" /></pre>
 
-    6. JOptionPane  
-    <pre><img width="593" src="https://github.com/user-attachments/assets/59605c84-c9c1-49d3-9a20-39dfa2392cf0" /></pre>
+6. JOptionPane — pop-up Berhasil/Error/Gagal  
+<pre><img width="593" src="https://github.com/user-attachments/assets/59605c84-c9c1-49d3-9a20-39dfa2392cf0" /></pre>
 
-    <b>Tampilan Akhir</b>  
-    <pre><img width="278" src="https://github.com/user-attachments/assets/e26c6e0d-7421-4cea-8d1c-6fffbaa90229" /></pre>
+Untuk tampilan pada struk masing masing akan dipanggil:  
+<pre><img width="530" src="https://github.com/user-attachments/assets/843d6456-27d8-4825-8d69-9434dd0cfc40" /></pre>
+
+<b>Tampilan Program Check-Out:</b>  
+<b>Tampilan:</b>  
+<pre><img width="278" src="https://github.com/user-attachments/assets/e26c6e0d-7421-4cea-8d1c-6fffbaa90229" /></pre>
+<pre><img width="197" src="https://github.com/user-attachments/assets/62924dfc-7698-490a-b228-e80f68b8927a" /></pre>
+<pre><img width="197" src="https://github.com/user-attachments/assets/a3e3278d-c7cd-4d90-a93f-a76a644ac3d6" /></pre>
+<pre><img width="202" src="https://github.com/user-attachments/assets/d1ffad01-9bf3-4ee5-8fd9-636191b91f28" /></pre>
+<pre><img width="99" src="https://github.com/user-attachments/assets/fa2289a0-15df-42b4-ac39-680e1165a03a" /></pre>
+
   </h6>
 
   <hr>
@@ -218,23 +229,26 @@
   <!-- RECEIPT FRAME -->
   <h3>ReceiptFrame — GUI Struk Pembayaran</h3>
   <h6>
-    1. JFrame  
-    <pre><img width="271" src="https://github.com/user-attachments/assets/ca3d8d5f-2fa6-4fe2-ade2-15d51f1ae59d" /></pre>
+    1. JFrame
+  <pre><img width="271" src="https://github.com/user-attachments/assets/ca3d8d5f-2fa6-4fe2-ade2-15d51f1ae59d" /></pre>
 
-    2. Enkapsulasi  
-    <pre><img width="296" src="https://github.com/user-attachments/assets/49db084b-673d-47ef-95f8-2052e3e5f77e" /></pre>
+  2. Enkapsulasi
+  <pre><img width="296" src="https://github.com/user-attachments/assets/49db084b-673d-47ef-95f8-2052e3e5f77e" /></pre>
 
-    3. JTextArea (readonly)  
-    <pre><img width="349" src="https://github.com/user-attachments/assets/12a6d6b3-c021-4514-ad86-e15ef41b3b22" /></pre>
+  3. JTextArea (readonly)
+  <pre><img width="349" src="https://github.com/user-attachments/assets/12a6d6b3-c021-4514-ad86-e15ef41b3b22" /></pre>
+  <pre><img width="525" src="https://github.com/user-attachments/assets/59e8b2b3-17e9-4072-8f22-88f040fac559" /></pre>
 
-    4. JScrollPane  
-    <pre><img width="265" src="https://github.com/user-attachments/assets/2edbf96e-d563-44b4-bdd8-027de0104721" /></pre>
+  4. JScrollPane
+  <pre><img width="265" src="https://github.com/user-attachments/assets/2edbf96e-d563-44b4-bdd8-027de0104721" /></pre>
 
-    5. JButton — Print & Tutup  
-    <pre><img width="323" src="https://github.com/user-attachments/assets/0bbc5a1e-ad96-4107-8663-d4f6c85a38ab" /></pre>
+  5. JButton — Print & Tutup
+  <pre><img width="323" src="https://github.com/user-attachments/assets/0bbc5a1e-ad96-4107-8663-d4f6c85a38ab" /></pre>
 
-    <b>Tampilan GUI</b>  
-    <pre><img width="281" src="https://github.com/user-attachments/assets/a0dec240-8f44-4919-a2b7-8ef35a39f2eb" /></pre>
+  <b>Tampilan GUI</b>
+  <pre><img width="281" src="https://github.com/user-attachments/assets/a0dec240-8f44-4919-a2b7-8ef35a39f2eb" /></pre>
+  <pre><img width="281" src="https://github.com/user-attachments/assets/6295b8ce-f951-44d5-8b80-97fd6221d584" /></pre>
+
   </h6>
 
   <hr>
@@ -242,17 +256,20 @@
   <!-- HISTORY -->
   <h3>HistoryFrame — GUI Riwayat Transaksi</h3>
   <h6>
-    1. JFrame  
-    <pre><img width="282" src="https://github.com/user-attachments/assets/b63945eb-96da-47ed-b9c9-fae948c309e0" /></pre>
+  1. JFrame
+  <pre><img width="282" src="https://github.com/user-attachments/assets/b63945eb-96da-47ed-b9c9-fae948c309e0" /></pre>
 
-    2. JTextArea  
-    <pre><img width="268" src="https://github.com/user-attachments/assets/9b7ab755-7a44-4068-bdad-691bf08b5f6e" /></pre>
+  2. JTextArea
+  <pre><img width="268" src="https://github.com/user-attachments/assets/9b7ab755-7a44-4068-bdad-691bf08b5f6e" /></pre>
 
-    3. JScrollPane  
-    <pre><img width="265" src="https://github.com/user-attachments/assets/50ed0de1-229d-4552-bf36-61c959f06608" /></pre>
+  3. JScrollPane
+  <pre><img width="265" src="https://github.com/user-attachments/assets/50ed0de1-229d-4552-bf36-61c959f06608" /></pre>
 
-    <b>Tampilan GUI</b>  
-    <pre><img width="788" src="https://github.com/user-attachments/assets/7ea61914-9615-47cd-8a84-98d9149d89c3" /></pre>
+  <b>Tampilan GUI</b>
+  <h6>Pergi Ke menu utama pilih "Export Riwayat"</h6>
+  <pre><img width="289" src="https://github.com/user-attachments/assets/6729c517-8c60-43f4-85cc-0882d3c30677" /></pre>
+  <pre><img width="788" src="https://github.com/user-attachments/assets/7ea61914-9615-47cd-8a84-98d9149d89c3" /></pre>
+
   </h6>
 
   <hr>
@@ -260,17 +277,20 @@
   <!-- WEEKLY REPORT -->
   <h3>WeeklyReportFrame — GUI Rekap Mingguan</h3>
   <h6>
-    1. JFrame  
-    <pre><img width="326" src="https://github.com/user-attachments/assets/13bc9215-e12e-4c20-9547-78a11f7fe567" /></pre>
+    1. JFrame
+  <pre><img width="326" src="https://github.com/user-attachments/assets/13bc9215-e12e-4c20-9547-78a11f7fe567" /></pre>
 
-    2. JTextArea  
-    <pre><img width="250" src="https://github.com/user-attachments/assets/04eb619a-6be0-44d6-80be-9ca5da0ee6db" /></pre>
+  2. JTextArea
+  <pre><img width="250" src="https://github.com/user-attachments/assets/04eb619a-6be0-44d6-80be-9ca5da0ee6db" /></pre>
 
-    3. JScrollPane  
-    <pre><img width="284" src="https://github.com/user-attachments/assets/59786d71-961a-4cdb-b82f-d0a91656cb54" /></pre>
+  3. JScrollPane
+  <pre><img width="284" src="https://github.com/user-attachments/assets/59786d71-961a-4cdb-b82f-d0a91656cb54" /></pre>
 
-    <b>Tampilan GUI</b>  
-    <pre><img width="441" src="https://github.com/user-attachments/assets/bba36b61-c4e8-4676-8849-4237c67efaca" /></pre>
+  <b>Tampilan GUI</b>
+  <h6>Pergi ke menu utama pilih "Rekap Mingguan"</h6>
+  <pre><img width="289" src="https://github.com/user-attachments/assets/6729c517-8c60-43f4-85cc-0882d3c30677" /></pre>
+  <pre><img width="441" src="https://github.com/user-attachments/assets/bba36b61-c4e8-4676-8849-4237c67efaca" /></pre>
+
   </h6>
 
 </details>
