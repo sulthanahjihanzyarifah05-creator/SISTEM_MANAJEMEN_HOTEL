@@ -282,7 +282,7 @@ Untuk tampilan pada struk masing masing akan dipanggil:
 <h1>🟦 Penjelasan Dua Materi Sebelum UTS</h1>
 
 <details>
-  <summary><strong>Klik untuk melihat penjelasan lengkap</strong></summary>
+  <summary><strong>Lihat Disini ya Kackaak</strong></summary>
   <br>
 
   <h6>
@@ -328,24 +328,30 @@ Untuk tampilan pada struk masing masing akan dipanggil:
 
 <h1>🟩 Penjelasan Materi Setelah UTS (Non-GUI)</h1>
 
-<h6>
+<details>
+  <summary><strong>Lihat Disini ya Kackaak</strong></summary>
+  <br>
 
-<br>1. <b>Encapsulation (Enkapsulasi)</b> Menyembunyikan data agar lebih aman menggunakan private + getter/setter.
-<pre>
-<img width="216" height="194" alt="image" src="https://github.com/user-attachments/assets/77840267-2436-40c9-ba0f-4292ae4cffc0" />
-</pre>
+  <h6>
 
-<br>2. <b>Inheritance (Pewarisan)</b> Class turunan mewarisi atribut dan method class induk.
-<pre>
-<img width="298" height="117" alt="image" src="https://github.com/user-attachments/assets/ebee639f-6270-4b6d-9c0b-c71f96dc52c6" />
-</pre>
+  <br><b>1. Encapsulation (Enkapsulasi)</b>  
+  Menyembunyikan data agar lebih aman menggunakan <code>private</code> + getter/setter.
+  <br>
+  <img width="216" height="194" src="https://github.com/user-attachments/assets/77840267-2436-40c9-ba0f-4292ae4cffc0" />
 
-<br>3. <b>Polymorphism</b> Satu method dapat memiliki banyak bentuk.
-<pre>
-<img width="364" height="164" alt="image" src="https://github.com/user-attachments/assets/5be4fc8c-a9a5-43d8-b79a-f02f3aafe766" />
-</pre>
+  <br><br><b>2. Inheritance (Pewarisan)</b>  
+  Class turunan mewarisi atribut dan method class induk.
+  <br>
+  <img width="298" height="117" src="https://github.com/user-attachments/assets/ebee639f-6270-4b6d-9c0b-c71f96dc52c6" />
 
-</h6>
+  <br><br><b>3. Polymorphism</b>  
+  Satu method dapat memiliki banyak bentuk.
+  <br>
+  <img width="364" height="164" src="https://github.com/user-attachments/assets/5be4fc8c-a9a5-43d8-b79a-f02f3aafe766" />
+
+  </h6>
+</details>
+``
 
 
 
