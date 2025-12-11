@@ -13,35 +13,50 @@
 <hr>
 <h1>🚀 Cara Menjalankan Project</h1>
 
-<h4>1. Clone Repository</h4>
-<pre>git clone https://github.com/sulthanahjihanzyarifah05-creator/SISTEM_MANAJEMEN_HOTEL.git</pre>
+<details>
+  <summary><strong>Klik untuk melihat detail langkah</strong></summary>
+  <br>
 
-<h4>2. Buka di IDE Netbeans</h4>
-<h4>3. Pastikan JDK Terinstall</h4>
-<h4>4. Jalankan Program</h4>
-<h4>
-  Ada 2 tipe Main:
-  <br>• Menggunakan GUI: <b>LoginFrame</b>
-  <br>• Tanpa GUI: <b>HotelApp</b>
-</h4>
+  <h4>1. Clone Repository</h4>
+  <pre>git clone https://github.com/sulthanahjihanzyarifah05-creator/SISTEM_MANAJEMEN_HOTEL.git</pre>
+
+  <h4>2. Buka di IDE NetBeans</h4>
+
+  <h4>3. Pastikan JDK Terinstall</h4>
+
+  <h4>4. Jalankan Program</h4>
+  <p>
+    Ada 2 tipe Main:
+    <br>• GUI: <b>LoginFrame</b>
+    <br>• Tanpa GUI: <b>HotelApp</b>
+  </p>
+
+</details>
 
 <hr>
-
 <h1>🔵 PENJELASAN GUI PADA SISTEM MANAJEMEN HOTEL</h1>
 
-<h6>
-  Project ini menggunakan Java Swing sebagai library utama untuk membuat antarmuka pengguna. Semua tampilan GUI dibuat dengan extends JFrame dan menggunakan komponen GUI seperti:
-  <br>1. JFrame
-  <br>2. JLabel
-  <br>3. JTextField
-  <br>4. JPasswordField
-  <br>5. JButton
-  <br>6. JTable
-  <br>7. JScrollPane
-  <br>8. JTextArea
-  <br>9. DefaultTableModel
-  <br>10. JOptionPane
-</h6>
+<details>
+  <summary><strong>Klik untuk melihat penjelasan GUI</strong></summary>
+  <br>
+
+  <h6>
+    Project ini menggunakan <b>Java Swing</b> sebagai library utama untuk membangun antarmuka pengguna.
+    Semua tampilan GUI dibuat dengan <code>extends JFrame</code> dan menggunakan berbagai komponen, yaitu:
+    <br>1. JFrame
+    <br>2. JLabel
+    <br>3. JTextField
+    <br>4. JPasswordField
+    <br>5. JButton
+    <br>6. JTable
+    <br>7. JScrollPane
+    <br>8. JTextArea
+    <br>9. DefaultTableModel
+    <br>10. JOptionPane
+  </h6>
+
+</details>
+
 <hr>
 <h3>LoginFrame — GUI Login Pegawai</h3>
 <h6>
