@@ -417,6 +417,7 @@ Untuk tampilan pada struk masing masing akan dipanggil:
 </details>
 
 <h1>📝 Daftar Anggota dan Pembagian Tugas</h1>
+<h4>LINK VIDEO https://youtu.be/lRXHHNHIyUA</h4>
 
 <table>
   <thead>
