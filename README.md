@@ -296,6 +296,40 @@ Untuk tampilan pada struk masing masing akan dipanggil:
 </details>
 
 <hr>
+<h1>🔵PROSES GUI </h1>
+<details>
+  <summary><strong>Lihat Disini ya Kackaak</strong></summary>
+  <br>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+<hr>
 <h1>🟦 Penjelasan Dua Materi Sebelum UTS</h1>
 
 <details>
