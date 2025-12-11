@@ -304,6 +304,7 @@ Untuk tampilan pada struk masing masing akan dipanggil:
 <hr>
 
 <h1>🟦 Penjelasan Dua Materi Sebelum UTS</h1>
+
 <details>
   <summary><strong>Lihat Disini ya Kackaak</strong></summary>
   <br>
