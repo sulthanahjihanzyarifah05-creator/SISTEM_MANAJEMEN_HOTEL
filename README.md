@@ -14,7 +14,7 @@
 <h1>🚀 Cara Menjalankan Project</h1>
 
 <details>
-  <summary><strong>Klik untuk melihat detail langkah</strong></summary>
+  <summary><strong>Lihat Disini ya Kackaak</strong></summary>
   <br>
 
   <h4>1. Clone Repository</h4>
@@ -37,7 +37,7 @@
 <h1>🔵 PENJELASAN GUI PADA SISTEM MANAJEMEN HOTEL</h1>
 
 <details>
-  <summary><strong>Klik untuk melihat penjelasan GUI</strong></summary>
+  <summary><strong>Lihat Disini ya Kackaak</strong></summary>
   <br>
 
   <h6>
@@ -60,7 +60,7 @@
 <hr>
 
 <details>
-  <summary><strong>Klik untuk melihat seluruh penjelasan GUI</strong></summary>
+  <summary><strong>Lihat Disini ya Kackaak</strong></summary>
   <br>
 
   <!-- LOGIN FRAME -->
