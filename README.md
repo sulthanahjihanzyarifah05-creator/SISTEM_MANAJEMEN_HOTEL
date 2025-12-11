@@ -100,20 +100,20 @@
   <!-- MAIN MENU -->
   <h3>MainMenuFrame — GUI Menu Utama Sistem Hotel</h3>
   <h6>
-    1. JFrame  
-    <pre><img width="358" src="https://github.com/user-attachments/assets/ad1e3368-e666-4427-8850-b69323ecf752" /></pre>
+    1. JFrame — Inheritance
+  <pre><img width="358" src="https://github.com/user-attachments/assets/ad1e3368-e666-4427-8850-b69323ecf752" /></pre>
 
-    2. Enkapsulasi  
-    <pre><img width="353" src="https://github.com/user-attachments/assets/51efe0de-d401-4daa-bffc-7af765e6667d" /></pre>
+  2. Enkapsulasi — Setter
+  <pre><img width="353" src="https://github.com/user-attachments/assets/51efe0de-d401-4daa-bffc-7af765e6667d" /></pre>
 
-    3. JLabel — “Selamat Datang”  
-    <pre><img width="389" src="https://github.com/user-attachments/assets/35a7d1c1-fae2-4026-bb82-dd3260571e17" /></pre>
+  3. JLabel — "Selamat Datang"
+  <pre><img width="389" src="https://github.com/user-attachments/assets/35a7d1c1-fae2-4026-bb82-dd3260571e17" /></pre>
 
-    4. JButton — Navigasi Menu  
-    <pre><img width="347" src="https://github.com/user-attachments/assets/8d443098-b973-4402-88e1-a33d9b322037" /></pre>
+  4. JButton — Navigasi Menu
+  <pre><img width="347" src="https://github.com/user-attachments/assets/8d443098-b973-4402-88e1-a33d9b322037" /></pre>
 
-    <b>Tampilan GUI</b>  
-    <pre><img width="292" src="https://github.com/user-attachments/assets/33a3584a-351b-4f40-aed8-b2c376154754" /></pre>
+  <b>Tampilan GUI</b>
+  <pre><img width="292" src="https://github.com/user-attachments/assets/33a3584a-351b-4f40-aed8-b2c376154754" /></pre>
   </h6>
 
   <hr>
@@ -121,23 +121,24 @@
   <!-- ROOM LIST -->
   <h3>RoomListFrame — GUI Daftar Kamar</h3>
   <h6>
-    1. JFrame  
-    <pre><img width="299" src="https://github.com/user-attachments/assets/d6267964-f2f7-4092-a5c0-a22083ad74a3" /></pre>
+   1. JFrame
+  <pre><img width="299" src="https://github.com/user-attachments/assets/d6267964-f2f7-4092-a5c0-a22083ad74a3" /></pre>
 
-    2. Enkapsulasi  
-    <pre><img width="356" src="https://github.com/user-attachments/assets/e71b42cd-627e-4e2d-9fb6-467f59a30561" /></pre>
+  2. Enkapsulasi
+  <pre><img width="356" src="https://github.com/user-attachments/assets/e71b42cd-627e-4e2d-9fb6-467f59a30561" /></pre>
 
-    3. JTable  
-    <pre><img width="245" src="https://github.com/user-attachments/assets/dc7d14ec-7abd-4304-9b8f-efd1dc504fba" /></pre>
+  3. JTable
+  <pre><img width="245" src="https://github.com/user-attachments/assets/dc7d14ec-7abd-4304-9b8f-efd1dc504fba" /></pre>
 
-    4. JScrollPane  
-    <pre><img width="294" src="https://github.com/user-attachments/assets/c15abaab-f0b2-4dad-a776-9f7114ea1f76" /></pre>
+  4. JScrollPane
+  <pre><img width="294" src="https://github.com/user-attachments/assets/c15abaab-f0b2-4dad-a776-9f7114ea1f76" /></pre>
 
-    5. DefaultTableModel  
-    <pre><img width="421" src="https://github.com/user-attachments/assets/82f0ba07-e8be-4aae-9ecb-3ec65660d074" /></pre>
+  5. DefaultTableModel
+  <pre><img width="421" src="https://github.com/user-attachments/assets/82f0ba07-e8be-4aae-9ecb-3ec65660d074" /></pre>
 
-    <b>Tampilan GUI</b>  
-    <pre><img width="446" src="https://github.com/user-attachments/assets/1b5086d6-9a13-4f95-b8a2-3f1b1a52b93f" /></pre>
+  <b>Tampilan GUI</b>
+  <pre><img width="446" src="https://github.com/user-attachments/assets/1b5086d6-9a13-4f95-b8a2-3f1b1a52b93f" /></pre>
+
   </h6>
 
   <hr>
