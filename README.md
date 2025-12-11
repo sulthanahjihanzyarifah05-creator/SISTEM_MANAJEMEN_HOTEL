@@ -307,6 +307,8 @@ Untuk tampilan pada struk masing masing akan dipanggil:
 <details>
   <summary><strong>Lihat Disini ya Kackaak</strong></summary>
   <br>
+</details>
+
 
   <h6>
 
